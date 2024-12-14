@@ -1,0 +1,173 @@
+.sober-products-filters {
+	position: relative;
+}
+
+.sober-products-filters .no-filter {
+	text-align: center;
+}
+
+.sober-products-filter-add-new {
+	font-weight: 700;
+}
+
+.sober-products-filter-fields * {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.sober-products-filter-fields {
+	overflow: hidden;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: 20px;
+}
+
+.sober-products-filter-fields .name,
+.sober-products-filter-fields .source,
+.sober-products-filter-fields .display,
+.sober-products-filter-fields .actions {
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.sober-products-filter-fields .name,
+.sober-products-filter-fields .source,
+.sober-products-filter-fields .display {
+	width: 32%;
+}
+
+.sober-products-filter-fields .actions {
+	width: 4%;
+	padding-top: 26px;
+	text-align: right;
+}
+
+.sober-products-filter-fields .remove-filter {
+	color: #b4b9be;
+}
+
+.sober-products-filter-fields .remove-filter:hover {
+	color: #c00;
+}
+
+.sober-products-filter-fields input,
+.sober-products-filter-fields select {
+	margin: 5px 0;
+}
+
+.sober-products-filter-form__sub-nav {
+	font-size: 14px;
+}
+
+.sober-products-filter-form__sub-nav .button-link.active {
+	color: #444;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.sober-products-filter-form__section {
+	display: none;
+}
+
+.sober-products-filter-form__section.active {
+	display: block;
+}
+
+.sober-products-filter-form__filter {
+	margin-bottom: 10px;
+}
+
+.sober-products-filter-form__filter-top {
+	overflow: hidden;
+	border: 1px solid #ccd0d4;
+}
+
+.sober-products-filter-form__filter-top:hover {
+	border-color: #999;
+}
+
+.sober-products-filter-form__filter-actions {
+	font-size: 14px;
+	line-height: 1.2;
+	float: right;
+	padding: 10px;
+}
+
+.sober-products-filter-form__filter-actions .button-link-delete {
+	text-decoration: none;
+	line-height: 1;
+}
+
+.sober-products-filter-form__filter-toggle {
+	float: left;
+	padding: 10px;
+	margin: 0;
+	border: 0;
+	background: none;
+	cursor: pointer;
+}
+
+.sober-products-filter-form__filter-toggle-indicator {
+	color: #999;
+	float: left;
+}
+
+.sober-products-filter-form__filter-toggle-indicator:before {
+	content: "\f140";
+	font: normal 20px/1 dashicons;
+	speak: none;
+	display: block;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-decoration: none;
+}
+
+.sober-products-filter-form__filter-title {
+	font-size: 13px;
+	font-weight: 500;
+	line-height: 1.2;
+	padding: 12px 10px;
+	cursor: pointer;
+	user-select: none;
+}
+
+.sober-products-filter-form__filter-options {
+	display: none;
+	padding: 5px 15px;
+	border: 1px solid #ccd0d4;
+	border-top: 0;
+}
+
+.sober-products-filter-form__section-actions {
+	text-align: center;
+}
+
+.sober-products-filter-form__section-actions button {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.sober-products-filter-form__filter.open .sober-products-filter-form__filter-top {
+	background: #fafafa;
+	border-color: #ccd0d4;
+}
+
+.sober-products-filter-form__filter.open .sober-products-filter-form__filter-toggle-indicator:before {
+	content: "\f142";
+}
+
+.sober-products-filter-form__section .sober-products-filter-form__message {
+	text-align: center;
+	font-size: 13px;
+}
+
+.sober-products-filter-form__filter-option .description {
+	line-height: inherit;
+}
+
+.sober-products-filter-form__filter-option .description code {
+	font-size: inherit;
+	line-height: inherit;
+}

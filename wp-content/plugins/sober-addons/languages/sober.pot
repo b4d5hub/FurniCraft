@@ -1,0 +1,4464 @@
+# Copyright (C) 2024 UIX Themes
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sober Addons 1.6.21\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sober-addons\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-13T09:07:55+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: sober\n"
+
+#. Plugin Name of the plugin
+#: sober-addons.php
+msgid "Sober Addons"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: sober-addons.php
+msgid "http://uix.store/"
+msgstr ""
+
+#. Description of the plugin
+#: sober-addons.php
+msgid "A collection of extra elements, custom post types, widgets for the Sober theme."
+msgstr ""
+
+#. Author of the plugin
+#: sober-addons.php
+msgid "UIX Themes"
+msgstr ""
+
+#. Author URI of the plugin
+#: sober-addons.php
+msgid "http://uix.store"
+msgstr ""
+
+#: includes/class-sober-vc.php:57
+msgid "Separate URL"
+msgstr ""
+
+#: includes/class-sober-vc.php:58
+msgid "Do not wrap heading text with link tag. Display URL separately"
+msgstr ""
+
+#: includes/class-sober-vc.php:61
+#: includes/class-sober-vc.php:69
+#: includes/class-sober-vc.php:182
+#: includes/class-sober-vc.php:321
+#: includes/class-sober-vc.php:329
+#: includes/class-sober-vc.php:445
+#: includes/class-sober-vc.php:459
+#: includes/class-sober-vc.php:540
+#: includes/class-sober-vc.php:738
+#: includes/class-sober-vc.php:1232
+#: includes/class-sober-vc.php:1302
+#: includes/class-sober-vc.php:1415
+#: includes/class-sober-vc.php:2550
+#: includes/class-sober-vc.php:2557
+#: includes/class-sober-vc.php:2602
+#: includes/class-sober-vc.php:2638
+#: includes/class-sober-vc.php:2674
+#: includes/elementor/widgets/icon-box-carousel.php:507
+#: includes/elementor/widgets/icon-box-carousel.php:534
+#: includes/elementor/widgets/image-slider.php:157
+#: includes/elementor/widgets/posts-grid.php:116
+#: includes/elementor/widgets/price-table.php:177
+#: includes/elementor/widgets/products-carousel.php:180
+#: includes/elementor/widgets/products-carousel.php:207
+#: includes/elementor/widgets/products-grid.php:170
+#: includes/elementor/widgets/products-tabs.php:133
+msgid "Yes"
+msgstr ""
+
+#: includes/class-sober-vc.php:65
+msgid "Link Arrow"
+msgstr ""
+
+#: includes/class-sober-vc.php:66
+msgid "Add an arrow to the separated link when hover"
+msgstr ""
+
+#: includes/class-sober-vc.php:86
+msgid "Product Grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:87
+msgid "Display products in grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:90
+#: includes/class-sober-vc.php:202
+#: includes/class-sober-vc.php:350
+#: includes/class-sober-vc.php:505
+#: includes/class-sober-vc.php:559
+#: includes/class-sober-vc.php:596
+#: includes/class-sober-vc.php:679
+#: includes/class-sober-vc.php:825
+#: includes/class-sober-vc.php:876
+#: includes/class-sober-vc.php:948
+#: includes/class-sober-vc.php:1046
+#: includes/class-sober-vc.php:1131
+#: includes/class-sober-vc.php:1221
+#: includes/class-sober-vc.php:1249
+#: includes/class-sober-vc.php:1270
+#: includes/class-sober-vc.php:1291
+#: includes/class-sober-vc.php:1319
+#: includes/class-sober-vc.php:1386
+#: includes/class-sober-vc.php:1434
+#: includes/class-sober-vc.php:1629
+#: includes/class-sober-vc.php:1710
+#: includes/class-sober-vc.php:1802
+#: includes/class-sober-vc.php:1855
+#: includes/class-sober-vc.php:1911
+#: includes/class-sober-vc.php:2005
+#: includes/class-sober-vc.php:2058
+#: includes/class-sober-vc.php:2132
+#: includes/class-sober-vc.php:2179
+#: includes/class-sober-vc.php:2268
+#: includes/class-sober-vc.php:2324
+#: includes/class-sober-vc.php:2423
+#: includes/class-sober-vc.php:2493
+#: includes/class-sober-vc.php:2587
+#: includes/class-sober-vc.php:2623
+#: includes/class-sober-vc.php:2659
+#: includes/elementor/elementor.php:218
+msgid "Sober"
+msgstr ""
+
+#: includes/class-sober-vc.php:93
+#: includes/class-sober-vc.php:205
+#: includes/class-sober-vc.php:353
+#: includes/elementor/widgets/products-carousel.php:138
+#: includes/elementor/widgets/products-grid.php:139
+#: includes/elementor/widgets/products-tabs.php:77
+msgid "Number Of Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:94
+#: includes/class-sober-vc.php:354
+msgid "Total number of products you want to show"
+msgstr ""
+
+#: includes/class-sober-vc.php:100
+#: includes/class-sober-vc.php:212
+#: includes/class-sober-vc.php:360
+#: includes/class-sober-vc.php:515
+#: includes/elementor/widgets/posts-grid.php:90
+#: includes/elementor/widgets/products-grid.php:152
+#: includes/elementor/widgets/products-tabs.php:90
+#: includes/widgets/instagram.php:135
+msgid "Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:101
+#: includes/class-sober-vc.php:220
+#: includes/class-sober-vc.php:361
+msgid "Display products in how many columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:106
+#: includes/class-sober-vc.php:470
+#: includes/class-sober-vc.php:484
+#: includes/elementor/widgets/products-grid.php:155
+#: includes/widgets/instagram.php:138
+msgid "2 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:107
+#: includes/class-sober-vc.php:365
+#: includes/class-sober-vc.php:485
+#: includes/class-sober-vc.php:520
+#: includes/elementor/widgets/posts-grid.php:93
+#: includes/elementor/widgets/products-grid.php:156
+#: includes/elementor/widgets/products-tabs.php:93
+#: includes/widgets/instagram.php:139
+msgid "3 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:108
+#: includes/class-sober-vc.php:216
+#: includes/class-sober-vc.php:366
+#: includes/class-sober-vc.php:486
+#: includes/class-sober-vc.php:521
+#: includes/elementor/widgets/posts-grid.php:94
+#: includes/elementor/widgets/products-grid.php:157
+#: includes/elementor/widgets/products-tabs.php:94
+#: includes/widgets/instagram.php:140
+msgid "4 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:109
+#: includes/class-sober-vc.php:217
+#: includes/class-sober-vc.php:367
+#: includes/class-sober-vc.php:487
+#: includes/elementor/widgets/products-grid.php:158
+#: includes/elementor/widgets/products-tabs.php:95
+msgid "5 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:110
+#: includes/class-sober-vc.php:218
+#: includes/class-sober-vc.php:368
+#: includes/class-sober-vc.php:488
+#: includes/elementor/widgets/products-grid.php:159
+#: includes/elementor/widgets/products-tabs.php:96
+msgid "6 Columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:114
+#: includes/class-sober-vc.php:525
+#: includes/elementor/widgets/posts-grid.php:103
+#: includes/elementor/widgets/products-carousel.php:87
+#: includes/elementor/widgets/products-grid.php:88
+#: includes/elementor/widgets/products-tabs.php:179
+msgid "Category"
+msgstr ""
+
+#: includes/class-sober-vc.php:115
+#: includes/class-sober-vc.php:236
+#: includes/class-sober-vc.php:388
+msgid "Select what categories you want to use. Leave it empty to use all categories."
+msgstr ""
+
+#: includes/class-sober-vc.php:126
+#: includes/class-sober-vc.php:372
+msgid "Product Type"
+msgstr ""
+
+#: includes/class-sober-vc.php:127
+#: includes/class-sober-vc.php:373
+msgid "Select product type you want to show"
+msgstr ""
+
+#: includes/class-sober-vc.php:132
+#: includes/class-sober-vc.php:146
+#: includes/class-sober-vc.php:284
+#: includes/class-sober-vc.php:378
+#: includes/class-sober-vc.php:404
+#: includes/class-sober-vc.php:1773
+#: includes/class-sober-vc.php:2296
+#: includes/elementor/widgets/button.php:224
+#: includes/elementor/widgets/google-map.php:169
+#: includes/elementor/widgets/products-grid.php:246
+#: includes/elementor/widgets/products-grid.php:262
+#: includes/elementor/widgets/section-heading.php:111
+#: includes/elementor/widgets/subscribe-box.php:116
+#: includes/portfolio.php:358
+#: includes/size-guide.php:580
+#: includes/size-guide.php:588
+msgid "Default"
+msgstr ""
+
+#: includes/class-sober-vc.php:133
+#: includes/class-sober-vc.php:379
+#: includes/elementor/widgets/products-grid.php:247
+msgid "Recent Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:134
+#: includes/class-sober-vc.php:380
+#: includes/elementor/widgets/products-grid.php:248
+msgid "Featured Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:135
+#: includes/class-sober-vc.php:269
+#: includes/class-sober-vc.php:381
+#: includes/elementor/widgets/products-grid.php:249
+#: includes/elementor/widgets/products-tabs.php:221
+#: includes/shortcodes/class-sober-shortcodes.php:344
+#: includes/widgets/products-filter.php:499
+msgid "Sale Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:136
+#: includes/class-sober-vc.php:382
+#: includes/elementor/widgets/products-grid.php:250
+msgid "Best Selling Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:137
+#: includes/class-sober-vc.php:383
+#: includes/elementor/widgets/products-grid.php:251
+msgid "Top Rated Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:141
+#: includes/class-sober-vc.php:278
+#: includes/class-sober-vc.php:399
+#: includes/elementor/widgets/products-carousel.php:108
+#: includes/elementor/widgets/products-grid.php:109
+#: includes/elementor/widgets/products-tabs.php:105
+msgid "Order By"
+msgstr ""
+
+#: includes/class-sober-vc.php:147
+#: includes/class-sober-vc.php:285
+#: includes/class-sober-vc.php:405
+msgid "Default Order (Menu Order)"
+msgstr ""
+
+#: includes/class-sober-vc.php:148
+#: includes/class-sober-vc.php:286
+#: includes/class-sober-vc.php:406
+#: includes/class-sober-vc.php:562
+#: includes/elementor/widgets/countdown.php:78
+#: includes/elementor/widgets/products-grid.php:264
+msgid "Date"
+msgstr ""
+
+#: includes/class-sober-vc.php:149
+#: includes/class-sober-vc.php:287
+#: includes/class-sober-vc.php:407
+#: includes/class-sober-vc.php:1145
+#: includes/elementor/widgets/products-grid.php:265
+msgid "Product ID"
+msgstr ""
+
+#: includes/class-sober-vc.php:150
+#: includes/class-sober-vc.php:288
+#: includes/class-sober-vc.php:408
+#: includes/elementor/widgets/products-grid.php:266
+msgid "Product Title"
+msgstr ""
+
+#: includes/class-sober-vc.php:151
+#: includes/class-sober-vc.php:289
+#: includes/class-sober-vc.php:409
+#: includes/elementor/widgets/products-grid.php:267
+msgid "Random"
+msgstr ""
+
+#: includes/class-sober-vc.php:152
+#: includes/class-sober-vc.php:290
+#: includes/class-sober-vc.php:410
+#: includes/class-sober-vc.php:1638
+#: includes/elementor/widgets/price-table.php:87
+#: includes/elementor/widgets/products-grid.php:268
+#: includes/widgets/products-filter.php:1343
+msgid "Price"
+msgstr ""
+
+#: includes/class-sober-vc.php:153
+#: includes/class-sober-vc.php:291
+#: includes/class-sober-vc.php:411
+#: includes/elementor/widgets/products-grid.php:269
+msgid "Popularity (Sales)"
+msgstr ""
+
+#: includes/class-sober-vc.php:154
+#: includes/class-sober-vc.php:292
+#: includes/class-sober-vc.php:412
+#: includes/elementor/widgets/products-grid.php:270
+#: includes/widgets/products-filter.php:1345
+msgid "Rating"
+msgstr ""
+
+#: includes/class-sober-vc.php:162
+#: includes/class-sober-vc.php:296
+#: includes/class-sober-vc.php:420
+#: includes/elementor/widgets/products-carousel.php:121
+#: includes/elementor/widgets/products-grid.php:122
+#: includes/elementor/widgets/products-tabs.php:115
+msgid "Order"
+msgstr ""
+
+#: includes/class-sober-vc.php:163
+#: includes/class-sober-vc.php:297
+#: includes/class-sober-vc.php:421
+msgid "This option will not be used if \"Order By\" option is \"Default\""
+msgstr ""
+
+#: includes/class-sober-vc.php:168
+#: includes/class-sober-vc.php:302
+#: includes/class-sober-vc.php:426
+#: includes/elementor/widgets/products-carousel.php:124
+#: includes/elementor/widgets/products-grid.php:125
+#: includes/elementor/widgets/products-tabs.php:119
+msgid "Ascending"
+msgstr ""
+
+#: includes/class-sober-vc.php:169
+#: includes/class-sober-vc.php:303
+#: includes/class-sober-vc.php:427
+#: includes/elementor/widgets/products-carousel.php:125
+#: includes/elementor/widgets/products-grid.php:126
+#: includes/elementor/widgets/products-tabs.php:120
+msgid "Descending"
+msgstr ""
+
+#: includes/class-sober-vc.php:177
+#: includes/class-sober-vc.php:325
+#: includes/elementor/widgets/products-grid.php:168
+#: includes/elementor/widgets/products-tabs.php:131
+msgid "Load More Button"
+msgstr ""
+
+#: includes/class-sober-vc.php:178
+#: includes/class-sober-vc.php:331
+msgid "Show load more button with ajax loading"
+msgstr ""
+
+#: includes/class-sober-vc.php:187
+#: includes/class-sober-vc.php:335
+#: includes/class-sober-vc.php:449
+#: includes/class-sober-vc.php:544
+#: includes/class-sober-vc.php:581
+#: includes/class-sober-vc.php:664
+#: includes/class-sober-vc.php:804
+#: includes/class-sober-vc.php:861
+#: includes/class-sober-vc.php:933
+#: includes/class-sober-vc.php:970
+#: includes/class-sober-vc.php:1110
+#: includes/class-sober-vc.php:1207
+#: includes/class-sober-vc.php:1235
+#: includes/class-sober-vc.php:1256
+#: includes/class-sober-vc.php:1277
+#: includes/class-sober-vc.php:1305
+#: includes/class-sober-vc.php:1372
+#: includes/class-sober-vc.php:1421
+#: includes/class-sober-vc.php:1615
+#: includes/class-sober-vc.php:1697
+#: includes/class-sober-vc.php:1788
+#: includes/class-sober-vc.php:1841
+#: includes/class-sober-vc.php:1897
+#: includes/class-sober-vc.php:1991
+#: includes/class-sober-vc.php:2044
+#: includes/class-sober-vc.php:2118
+#: includes/class-sober-vc.php:2165
+#: includes/class-sober-vc.php:2245
+#: includes/class-sober-vc.php:2302
+#: includes/class-sober-vc.php:2402
+#: includes/class-sober-vc.php:2433
+#: includes/class-sober-vc.php:2573
+#: includes/class-sober-vc.php:2608
+#: includes/class-sober-vc.php:2644
+#: includes/class-sober-vc.php:2680
+msgid "Extra class name"
+msgstr ""
+
+#: includes/class-sober-vc.php:188
+#: includes/class-sober-vc.php:339
+#: includes/class-sober-vc.php:450
+#: includes/class-sober-vc.php:545
+#: includes/class-sober-vc.php:582
+#: includes/class-sober-vc.php:665
+#: includes/class-sober-vc.php:805
+#: includes/class-sober-vc.php:862
+#: includes/class-sober-vc.php:934
+#: includes/class-sober-vc.php:971
+#: includes/class-sober-vc.php:1111
+#: includes/class-sober-vc.php:1208
+#: includes/class-sober-vc.php:1236
+#: includes/class-sober-vc.php:1257
+#: includes/class-sober-vc.php:1278
+#: includes/class-sober-vc.php:1306
+#: includes/class-sober-vc.php:1373
+#: includes/class-sober-vc.php:1423
+#: includes/class-sober-vc.php:1616
+#: includes/class-sober-vc.php:1699
+#: includes/class-sober-vc.php:1789
+#: includes/class-sober-vc.php:1842
+#: includes/class-sober-vc.php:1898
+#: includes/class-sober-vc.php:1992
+#: includes/class-sober-vc.php:2045
+#: includes/class-sober-vc.php:2119
+#: includes/class-sober-vc.php:2166
+#: includes/class-sober-vc.php:2246
+#: includes/class-sober-vc.php:2303
+#: includes/class-sober-vc.php:2403
+#: includes/class-sober-vc.php:2434
+#: includes/class-sober-vc.php:2574
+#: includes/class-sober-vc.php:2609
+#: includes/class-sober-vc.php:2645
+#: includes/class-sober-vc.php:2681
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/class-sober-vc.php:198
+msgid "Product Tabs"
+msgstr ""
+
+#: includes/class-sober-vc.php:199
+msgid "Product grid grouped by tabs"
+msgstr ""
+
+#: includes/class-sober-vc.php:209
+msgid "Total number of products will be display in single tab"
+msgstr ""
+
+#: includes/class-sober-vc.php:223
+#: includes/elementor/widgets/products-tabs.php:145
+#: includes/elementor/widgets/products-tabs.php:164
+#: includes/elementor/widgets/tabs.php:70
+#: includes/elementor/widgets/tabs.php:140
+msgid "Tabs"
+msgstr ""
+
+#: includes/class-sober-vc.php:224
+msgid "Select how to group products in tabs"
+msgstr ""
+
+#: includes/class-sober-vc.php:229
+msgid "Group by category"
+msgstr ""
+
+#: includes/class-sober-vc.php:230
+msgid "Group by tag"
+msgstr ""
+
+#: includes/class-sober-vc.php:231
+msgid "Group by feature"
+msgstr ""
+
+#: includes/class-sober-vc.php:235
+#: includes/class-sober-vc.php:387
+#: includes/elementor/widgets/products-tabs.php:168
+#: includes/elementor/widgets/products-tabs.php:188
+msgid "Categories"
+msgstr ""
+
+#: includes/class-sober-vc.php:251
+#: includes/elementor/widgets/products-carousel.php:98
+#: includes/elementor/widgets/products-grid.php:99
+#: includes/elementor/widgets/products-tabs.php:169
+#: includes/elementor/widgets/products-tabs.php:202
+msgid "Tags"
+msgstr ""
+
+#: includes/class-sober-vc.php:252
+msgid "Enter tag slugs. Separates by comma."
+msgstr ""
+
+#: includes/class-sober-vc.php:262
+#: includes/elementor/widgets/products-tabs.php:167
+#: includes/elementor/widgets/products-tabs.php:230
+msgid "Groups"
+msgstr ""
+
+#: includes/class-sober-vc.php:267
+#: includes/elementor/widgets/products-tabs.php:219
+#: includes/shortcodes/class-sober-shortcodes.php:342
+#: includes/widgets/products-filter.php:497
+msgid "Best Sellers"
+msgstr ""
+
+#: includes/class-sober-vc.php:268
+#: includes/elementor/widgets/products-tabs.php:220
+#: includes/shortcodes/class-sober-shortcodes.php:343
+#: includes/widgets/products-filter.php:498
+msgid "New Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:270
+#: includes/elementor/widgets/products-tabs.php:222
+#: includes/shortcodes/class-sober-shortcodes.php:345
+#: includes/widgets/products-filter.php:500
+msgid "Hot Products"
+msgstr ""
+
+#: includes/class-sober-vc.php:279
+msgid "This option can be applied to category tabs and the Featured Products tab."
+msgstr ""
+
+#: includes/class-sober-vc.php:307
+#: includes/elementor/widgets/products-tabs.php:151
+msgid "Tabs Effect"
+msgstr ""
+
+#: includes/class-sober-vc.php:308
+msgid "Select the way tabs load products"
+msgstr ""
+
+#: includes/class-sober-vc.php:312
+msgid "Isotope Toggle"
+msgstr ""
+
+#: includes/class-sober-vc.php:313
+msgid "Ajax Load"
+msgstr ""
+
+#: includes/class-sober-vc.php:317
+msgid "Show All Tab"
+msgstr ""
+
+#: includes/class-sober-vc.php:346
+msgid "Product Carousel"
+msgstr ""
+
+#: includes/class-sober-vc.php:347
+msgid "Product carousel slider"
+msgstr ""
+
+#: includes/class-sober-vc.php:435
+#: includes/class-sober-vc.php:2539
+msgid "Auto Play"
+msgstr ""
+
+#: includes/class-sober-vc.php:436
+#: includes/class-sober-vc.php:2540
+msgid "Auto play speed in miliseconds. Enter \"0\" to disable auto play."
+msgstr ""
+
+#: includes/class-sober-vc.php:442
+#: includes/class-sober-vc.php:2546
+msgid "Loop"
+msgstr ""
+
+#: includes/class-sober-vc.php:456
+msgid "Auto Responsive"
+msgstr ""
+
+#: includes/class-sober-vc.php:461
+#: includes/class-sober-vc.php:472
+#: includes/class-sober-vc.php:490
+msgid "Responsive"
+msgstr ""
+
+#: includes/class-sober-vc.php:464
+msgid "Columns on Mobiles"
+msgstr ""
+
+#: includes/class-sober-vc.php:469
+#: includes/widgets/instagram.php:137
+msgid "1 Column"
+msgstr ""
+
+#: includes/class-sober-vc.php:479
+msgid "Columns on Tablets"
+msgstr ""
+
+#: includes/class-sober-vc.php:501
+msgid "Sober Post Grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:502
+msgid "Display posts in grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:508
+msgid "Number of posts you want to show"
+msgstr ""
+
+#: includes/class-sober-vc.php:509
+msgid "Number of posts"
+msgstr ""
+
+#: includes/class-sober-vc.php:516
+msgid "Display posts in how many columns"
+msgstr ""
+
+#: includes/class-sober-vc.php:526
+msgid "Enter categories name"
+msgstr ""
+
+#: includes/class-sober-vc.php:536
+msgid "Hide Post Meta"
+msgstr ""
+
+#: includes/class-sober-vc.php:537
+msgid "Hide information about date, category"
+msgstr ""
+
+#: includes/class-sober-vc.php:555
+#: includes/elementor/widgets/countdown.php:72
+msgid "Countdown"
+msgstr ""
+
+#: includes/class-sober-vc.php:556
+msgid "Countdown digital clock"
+msgstr ""
+
+#: includes/class-sober-vc.php:563
+msgid "Enter the date in format: YYYY/MM/DD"
+msgstr ""
+
+#: includes/class-sober-vc.php:569
+#: includes/elementor/widgets/banner.php:566
+msgid "Text Align"
+msgstr ""
+
+#: includes/class-sober-vc.php:570
+msgid "Select text alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:574
+#: includes/class-sober-vc.php:657
+#: includes/class-sober-vc.php:713
+#: includes/class-sober-vc.php:904
+#: includes/class-sober-vc.php:1020
+#: includes/class-sober-vc.php:1060
+#: includes/class-sober-vc.php:1884
+#: includes/class-sober-vc.php:2382
+#: includes/elementor/widgets/banner-grid-4.php:327
+#: includes/elementor/widgets/banner-grid-6.php:403
+#: includes/elementor/widgets/banner-grid-52.php:352
+#: includes/elementor/widgets/banner-simple.php:206
+#: includes/elementor/widgets/banner.php:378
+#: includes/elementor/widgets/banner.php:574
+#: includes/elementor/widgets/button.php:170
+#: includes/elementor/widgets/category-banner.php:138
+#: includes/elementor/widgets/countdown.php:104
+#: includes/elementor/widgets/section-heading.php:146
+#: includes/elementor/widgets/tabs.php:216
+#: includes/elementor/widgets/tabs.php:270
+#: includes/elementor/widgets/testimonial.php:124
+msgid "Left"
+msgstr ""
+
+#: includes/class-sober-vc.php:575
+#: includes/class-sober-vc.php:658
+#: includes/class-sober-vc.php:714
+#: includes/class-sober-vc.php:905
+#: includes/class-sober-vc.php:1021
+#: includes/class-sober-vc.php:1883
+#: includes/class-sober-vc.php:2383
+#: includes/elementor/widgets/banner-grid-4.php:331
+#: includes/elementor/widgets/banner-grid-6.php:404
+#: includes/elementor/widgets/banner-grid-52.php:353
+#: includes/elementor/widgets/banner-simple.php:210
+#: includes/elementor/widgets/banner.php:382
+#: includes/elementor/widgets/banner.php:578
+#: includes/elementor/widgets/button.php:174
+#: includes/elementor/widgets/countdown.php:108
+#: includes/elementor/widgets/section-heading.php:150
+#: includes/elementor/widgets/tabs.php:220
+#: includes/elementor/widgets/tabs.php:274
+msgid "Center"
+msgstr ""
+
+#: includes/class-sober-vc.php:576
+#: includes/class-sober-vc.php:659
+#: includes/class-sober-vc.php:715
+#: includes/class-sober-vc.php:906
+#: includes/class-sober-vc.php:1022
+#: includes/class-sober-vc.php:1061
+#: includes/class-sober-vc.php:1885
+#: includes/class-sober-vc.php:2384
+#: includes/elementor/widgets/banner-grid-4.php:335
+#: includes/elementor/widgets/banner-grid-6.php:405
+#: includes/elementor/widgets/banner-grid-52.php:354
+#: includes/elementor/widgets/banner-simple.php:214
+#: includes/elementor/widgets/banner.php:386
+#: includes/elementor/widgets/banner.php:582
+#: includes/elementor/widgets/button.php:178
+#: includes/elementor/widgets/category-banner.php:139
+#: includes/elementor/widgets/countdown.php:112
+#: includes/elementor/widgets/section-heading.php:154
+#: includes/elementor/widgets/testimonial.php:132
+msgid "Right"
+msgstr ""
+
+#: includes/class-sober-vc.php:592
+msgid "Sober Button"
+msgstr ""
+
+#: includes/class-sober-vc.php:593
+msgid "Button in style"
+msgstr ""
+
+#: includes/class-sober-vc.php:599
+#: includes/class-sober-vc.php:980
+#: includes/class-sober-vc.php:987
+#: includes/class-sober-vc.php:994
+#: includes/class-sober-vc.php:1007
+#: includes/class-sober-vc.php:1018
+#: includes/class-sober-vc.php:1030
+#: includes/class-sober-vc.php:2369
+#: includes/elementor/widgets/banner-grid-5.php:148
+#: includes/elementor/widgets/banner-grid-5.php:178
+#: includes/elementor/widgets/button.php:78
+#: includes/elementor/widgets/image-slider.php:91
+#: includes/elementor/widgets/section-heading.php:199
+msgid "Text"
+msgstr ""
+
+#: includes/class-sober-vc.php:600
+msgid "Enter button text"
+msgstr ""
+
+#: includes/class-sober-vc.php:606
+msgid "URL (Link)"
+msgstr ""
+
+#: includes/class-sober-vc.php:611
+#: includes/elementor/widgets/subscribe-box.php:112
+msgid "Style"
+msgstr ""
+
+#: includes/class-sober-vc.php:612
+#: includes/class-sober-vc.php:991
+msgid "Select button style"
+msgstr ""
+
+#: includes/class-sober-vc.php:616
+#: includes/class-sober-vc.php:627
+#: includes/class-sober-vc.php:997
+#: includes/class-sober-vc.php:1592
+#: includes/elementor/widgets/banner-grid-4.php:295
+#: includes/elementor/widgets/banner-grid-4.php:452
+#: includes/elementor/widgets/banner-grid-6.php:369
+#: includes/elementor/widgets/banner-grid-6.php:523
+#: includes/elementor/widgets/banner-grid-52.php:318
+#: includes/elementor/widgets/banner-grid-52.php:472
+#: includes/elementor/widgets/banner.php:223
+#: includes/elementor/widgets/banner.php:275
+#: includes/elementor/widgets/banner.php:797
+#: includes/elementor/widgets/button.php:104
+#: includes/elementor/widgets/button.php:236
+#: includes/elementor/widgets/icon-box-carousel.php:246
+#: includes/elementor/widgets/icon-box.php:237
+#: includes/elementor/widgets/subscribe-box.php:243
+msgid "Normal"
+msgstr ""
+
+#: includes/class-sober-vc.php:617
+#: includes/class-sober-vc.php:998
+#: includes/elementor/widgets/banner-grid-4.php:296
+#: includes/elementor/widgets/banner-grid-6.php:370
+#: includes/elementor/widgets/banner-grid-52.php:319
+#: includes/elementor/widgets/banner.php:224
+#: includes/elementor/widgets/banner.php:276
+#: includes/elementor/widgets/button.php:105
+msgid "Outline"
+msgstr ""
+
+#: includes/class-sober-vc.php:618
+#: includes/class-sober-vc.php:799
+#: includes/class-sober-vc.php:916
+#: includes/class-sober-vc.php:999
+#: includes/class-sober-vc.php:1010
+#: includes/class-sober-vc.php:1200
+#: includes/elementor/widgets/banner-grid-4.php:297
+#: includes/elementor/widgets/banner-grid-6.php:371
+#: includes/elementor/widgets/banner-grid-52.php:320
+#: includes/elementor/widgets/banner.php:225
+#: includes/elementor/widgets/banner.php:277
+#: includes/elementor/widgets/button.php:106
+msgid "Light"
+msgstr ""
+
+#: includes/class-sober-vc.php:622
+#: includes/elementor/widgets/button.php:115
+#: includes/elementor/widgets/info-list.php:223
+#: includes/elementor/widgets/section-heading.php:107
+msgid "Size"
+msgstr ""
+
+#: includes/class-sober-vc.php:623
+msgid "Select button size"
+msgstr ""
+
+#: includes/class-sober-vc.php:628
+#: includes/elementor/widgets/button.php:121
+#: includes/elementor/widgets/section-heading.php:114
+msgid "Large"
+msgstr ""
+
+#: includes/class-sober-vc.php:629
+#: includes/elementor/widgets/button.php:119
+#: includes/elementor/widgets/section-heading.php:112
+msgid "Small"
+msgstr ""
+
+#: includes/class-sober-vc.php:637
+#: includes/class-sober-vc.php:1344
+#: includes/class-sober-vc.php:1767
+#: includes/elementor/widgets/accordion.php:178
+#: includes/elementor/widgets/accordion.php:207
+#: includes/elementor/widgets/accordion.php:235
+#: includes/elementor/widgets/banner-grid-4.php:363
+#: includes/elementor/widgets/banner-grid-4.php:392
+#: includes/elementor/widgets/banner-grid-4.php:421
+#: includes/elementor/widgets/banner-grid-4.php:459
+#: includes/elementor/widgets/banner-grid-4.php:494
+#: includes/elementor/widgets/banner-grid-6.php:434
+#: includes/elementor/widgets/banner-grid-6.php:463
+#: includes/elementor/widgets/banner-grid-6.php:492
+#: includes/elementor/widgets/banner-grid-6.php:530
+#: includes/elementor/widgets/banner-grid-6.php:565
+#: includes/elementor/widgets/banner-grid-52.php:383
+#: includes/elementor/widgets/banner-grid-52.php:412
+#: includes/elementor/widgets/banner-grid-52.php:441
+#: includes/elementor/widgets/banner-grid-52.php:479
+#: includes/elementor/widgets/banner-grid-52.php:514
+#: includes/elementor/widgets/banner.php:608
+#: includes/elementor/widgets/banner.php:672
+#: includes/elementor/widgets/banner.php:733
+#: includes/elementor/widgets/button.php:220
+#: includes/elementor/widgets/category-banner.php:188
+#: includes/elementor/widgets/category-banner.php:227
+#: includes/elementor/widgets/icon-box-carousel.php:228
+#: includes/elementor/widgets/icon-box-carousel.php:341
+#: includes/elementor/widgets/icon-box-carousel.php:391
+#: includes/elementor/widgets/icon-box.php:219
+#: includes/elementor/widgets/icon-box.php:343
+#: includes/elementor/widgets/icon-box.php:393
+#: includes/elementor/widgets/info-list.php:212
+#: includes/elementor/widgets/info-list.php:275
+#: includes/elementor/widgets/info-list.php:304
+#: includes/elementor/widgets/product-banner.php:184
+#: includes/elementor/widgets/subscribe-box.php:143
+#: includes/elementor/widgets/subscribe-box.php:171
+#: includes/elementor/widgets/tabs.php:180
+#: includes/elementor/widgets/tabs.php:247
+#: includes/elementor/widgets/testimonial.php:193
+#: includes/elementor/widgets/testimonial.php:221
+msgid "Color"
+msgstr ""
+
+#: includes/class-sober-vc.php:638
+msgid "Select button color"
+msgstr ""
+
+#: includes/class-sober-vc.php:642
+#: includes/class-sober-vc.php:798
+#: includes/class-sober-vc.php:915
+#: includes/class-sober-vc.php:1009
+#: includes/class-sober-vc.php:1201
+#: includes/elementor/widgets/button.php:225
+#: includes/elementor/widgets/product-banner.php:188
+msgid "Dark"
+msgstr ""
+
+#: includes/class-sober-vc.php:643
+#: includes/elementor/widgets/button.php:226
+#: includes/elementor/widgets/product-banner.php:189
+msgid "White"
+msgstr ""
+
+#: includes/class-sober-vc.php:651
+#: includes/class-sober-vc.php:1878
+#: includes/class-sober-vc.php:2376
+#: includes/elementor/widgets/banner-simple.php:198
+#: includes/elementor/widgets/button.php:165
+#: includes/elementor/widgets/section-heading.php:142
+#: includes/elementor/widgets/tabs.php:212
+#: includes/elementor/widgets/tabs.php:266
+msgid "Alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:652
+msgid "Select button alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:656
+#: includes/elementor/widgets/subscribe-box.php:117
+msgid "Inline"
+msgstr ""
+
+#: includes/class-sober-vc.php:675
+#: includes/class-sober-vc.php:683
+#: includes/class-sober-vc.php:829
+#: includes/class-sober-vc.php:880
+#: includes/class-sober-vc.php:952
+#: includes/class-sober-vc.php:1050
+msgid "Banner Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:676
+msgid "Banner image for promotion"
+msgstr ""
+
+#: includes/class-sober-vc.php:682
+#: includes/class-sober-vc.php:828
+#: includes/class-sober-vc.php:879
+#: includes/class-sober-vc.php:951
+#: includes/class-sober-vc.php:1049
+#: includes/class-sober-vc.php:2182
+#: includes/class-sober-vc.php:2338
+#: includes/class-sober-vc.php:2501
+#: includes/elementor/widgets/banner-grid-4.php:212
+#: includes/elementor/widgets/banner-grid-5.php:123
+#: includes/elementor/widgets/banner-grid-5.php:131
+#: includes/elementor/widgets/banner-grid-6.php:290
+#: includes/elementor/widgets/banner-grid-52.php:239
+#: includes/elementor/widgets/banner-simple.php:95
+#: includes/elementor/widgets/banner.php:77
+#: includes/elementor/widgets/banner.php:96
+#: includes/elementor/widgets/category-banner.php:81
+#: includes/elementor/widgets/icon-box-carousel.php:87
+#: includes/elementor/widgets/icon-box.php:85
+#: includes/elementor/widgets/image-slider.php:82
+#: includes/elementor/widgets/logos.php:86
+#: includes/elementor/widgets/product-banner.php:93
+#: includes/elementor/widgets/team-member.php:80
+#: includes/elementor/widgets/testimonial.php:144
+msgid "Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:688
+#: includes/class-sober-vc.php:835
+#: includes/class-sober-vc.php:885
+#: includes/class-sober-vc.php:957
+#: includes/class-sober-vc.php:1934
+#: includes/class-sober-vc.php:1954
+#: includes/class-sober-vc.php:2348
+#: includes/class-sober-vc.php:2511
+msgid "Image size"
+msgstr ""
+
+#: includes/class-sober-vc.php:689
+#: includes/class-sober-vc.php:836
+#: includes/class-sober-vc.php:886
+#: includes/class-sober-vc.php:958
+msgid "Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: includes/class-sober-vc.php:695
+#: includes/elementor/widgets/banner-grid-4.php:260
+#: includes/elementor/widgets/banner.php:182
+msgid "Banner description"
+msgstr ""
+
+#: includes/class-sober-vc.php:696
+msgid "A short text display before the banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:701
+#: includes/class-sober-vc.php:892
+msgid "Banner Text"
+msgstr ""
+
+#: includes/class-sober-vc.php:702
+#: includes/class-sober-vc.php:2370
+msgid "Enter the banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:708
+#: includes/class-sober-vc.php:899
+msgid "Banner Text Position"
+msgstr ""
+
+#: includes/class-sober-vc.php:709
+#: includes/class-sober-vc.php:900
+msgid "Select text position"
+msgstr ""
+
+#: includes/class-sober-vc.php:727
+msgid "Enter text font size."
+msgstr ""
+
+#: includes/class-sober-vc.php:728
+msgid "Enter text line height."
+msgstr ""
+
+#: includes/class-sober-vc.php:729
+msgid "Select text color."
+msgstr ""
+
+#: includes/class-sober-vc.php:734
+msgid "Use theme default font family?"
+msgstr ""
+
+#: includes/class-sober-vc.php:735
+msgid "Use font family from the theme."
+msgstr ""
+
+#: includes/class-sober-vc.php:746
+msgid "Select font family."
+msgstr ""
+
+#: includes/class-sober-vc.php:747
+msgid "Select font styling."
+msgstr ""
+
+#: includes/class-sober-vc.php:756
+#: includes/class-sober-vc.php:921
+#: includes/class-sober-vc.php:964
+#: includes/class-sober-vc.php:1098
+#: includes/class-sober-vc.php:2390
+msgid "Link (URL)"
+msgstr ""
+
+#: includes/class-sober-vc.php:761
+#: includes/elementor/widgets/banner-grid-4.php:291
+#: includes/elementor/widgets/banner-grid-6.php:365
+#: includes/elementor/widgets/banner-grid-52.php:314
+#: includes/elementor/widgets/banner.php:219
+#: includes/elementor/widgets/banner.php:271
+msgid "Button Type"
+msgstr ""
+
+#: includes/class-sober-vc.php:762
+msgid "Select button type"
+msgstr ""
+
+#: includes/class-sober-vc.php:766
+msgid "Light Button"
+msgstr ""
+
+#: includes/class-sober-vc.php:767
+msgid "Normal Button"
+msgstr ""
+
+#: includes/class-sober-vc.php:768
+msgid "Arrow Icon"
+msgstr ""
+
+#: includes/class-sober-vc.php:772
+#: includes/class-sober-vc.php:848
+#: includes/class-sober-vc.php:926
+#: includes/class-sober-vc.php:983
+#: includes/class-sober-vc.php:1103
+#: includes/class-sober-vc.php:1676
+#: includes/class-sober-vc.php:2528
+#: includes/elementor/widgets/banner-grid-4.php:269
+#: includes/elementor/widgets/banner-grid-4.php:271
+#: includes/elementor/widgets/banner-grid-5.php:150
+#: includes/elementor/widgets/banner-grid-5.php:180
+#: includes/elementor/widgets/banner-grid-6.php:343
+#: includes/elementor/widgets/banner-grid-6.php:345
+#: includes/elementor/widgets/banner-grid-52.php:292
+#: includes/elementor/widgets/banner-grid-52.php:294
+#: includes/elementor/widgets/banner-simple.php:179
+#: includes/elementor/widgets/banner.php:198
+#: includes/elementor/widgets/banner.php:200
+#: includes/elementor/widgets/banner.php:244
+#: includes/elementor/widgets/banner.php:246
+#: includes/elementor/widgets/image-slider.php:100
+#: includes/elementor/widgets/price-table.php:194
+#: includes/elementor/widgets/product-banner.php:164
+msgid "Button Text"
+msgstr ""
+
+#: includes/class-sober-vc.php:773
+#: includes/class-sober-vc.php:927
+#: includes/class-sober-vc.php:984
+#: includes/class-sober-vc.php:1104
+msgid "Enter the text for banner button"
+msgstr ""
+
+#: includes/class-sober-vc.php:782
+#: includes/elementor/widgets/banner-grid-4.php:305
+#: includes/elementor/widgets/banner-grid-6.php:379
+#: includes/elementor/widgets/banner-grid-52.php:328
+msgid "Button Visibility"
+msgstr ""
+
+#: includes/class-sober-vc.php:783
+msgid "Select button visibility"
+msgstr ""
+
+#: includes/class-sober-vc.php:787
+msgid "Always visible"
+msgstr ""
+
+#: includes/class-sober-vc.php:788
+msgid "When hover"
+msgstr ""
+
+#: includes/class-sober-vc.php:789
+msgid "Hidden"
+msgstr ""
+
+#: includes/class-sober-vc.php:793
+msgid "Banner Color Scheme"
+msgstr ""
+
+#: includes/class-sober-vc.php:794
+msgid "Select color scheme for description, button color"
+msgstr ""
+
+#: includes/class-sober-vc.php:811
+#: includes/class-sober-vc.php:1117
+#: includes/class-sober-vc.php:2310
+#: includes/class-sober-vc.php:2409
+msgid "CSS box"
+msgstr ""
+
+#: includes/class-sober-vc.php:814
+#: includes/class-sober-vc.php:1120
+#: includes/class-sober-vc.php:2312
+#: includes/class-sober-vc.php:2412
+msgid "Design Options"
+msgstr ""
+
+#: includes/class-sober-vc.php:821
+msgid "Banner Image 2"
+msgstr ""
+
+#: includes/class-sober-vc.php:822
+msgid "Simple banner that supports multiple buttons"
+msgstr ""
+
+#: includes/class-sober-vc.php:842
+#: includes/elementor/widgets/banner.php:192
+#: includes/elementor/widgets/banner.php:787
+msgid "Buttons"
+msgstr ""
+
+#: includes/class-sober-vc.php:843
+msgid "Enter link and label for buttons."
+msgstr ""
+
+#: includes/class-sober-vc.php:853
+#: includes/class-sober-vc.php:1682
+msgid "Button Link"
+msgstr ""
+
+#: includes/class-sober-vc.php:872
+msgid "Banner Image 3"
+msgstr ""
+
+#: includes/class-sober-vc.php:873
+msgid "Simple banner with text at bottom"
+msgstr ""
+
+#: includes/class-sober-vc.php:893
+msgid "Enter banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:910
+#: includes/class-sober-vc.php:1003
+#: includes/class-sober-vc.php:1195
+msgid "Text Color Scheme"
+msgstr ""
+
+#: includes/class-sober-vc.php:911
+#: includes/class-sober-vc.php:1004
+msgid "Select color scheme for banner content"
+msgstr ""
+
+#: includes/class-sober-vc.php:944
+msgid "Banner Image 4"
+msgstr ""
+
+#: includes/class-sober-vc.php:945
+msgid "Simple banner image with text"
+msgstr ""
+
+#: includes/class-sober-vc.php:977
+msgid "Banner Content"
+msgstr ""
+
+#: includes/class-sober-vc.php:990
+msgid "Button Style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1014
+msgid "Content Horizontal Alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:1015
+msgid "Horizontal alignment of banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:1026
+msgid "Content Vertical Alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:1027
+msgid "Vertical alignment of banner text"
+msgstr ""
+
+#: includes/class-sober-vc.php:1032
+#: includes/class-sober-vc.php:1062
+#: includes/elementor/widgets/banner.php:410
+#: includes/elementor/widgets/category-banner.php:140
+#: includes/elementor/widgets/testimonial.php:128
+msgid "Top"
+msgstr ""
+
+#: includes/class-sober-vc.php:1033
+#: includes/elementor/widgets/banner.php:414
+msgid "Middle"
+msgstr ""
+
+#: includes/class-sober-vc.php:1034
+#: includes/class-sober-vc.php:1063
+#: includes/elementor/widgets/banner.php:418
+#: includes/elementor/widgets/category-banner.php:141
+msgid "Bottom"
+msgstr ""
+
+#: includes/class-sober-vc.php:1042
+#: includes/elementor/widgets/category-banner.php:75
+#: includes/elementor/widgets/category-banner.php:172
+msgid "Category Banner"
+msgstr ""
+
+#: includes/class-sober-vc.php:1043
+msgid "Banner image with special style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1055
+#: includes/elementor/widgets/category-banner.php:133
+#: includes/elementor/widgets/testimonial.php:118
+msgid "Image Position"
+msgstr ""
+
+#: includes/class-sober-vc.php:1056
+msgid "Select image position"
+msgstr ""
+
+#: includes/class-sober-vc.php:1064
+#: includes/class-sober-vc.php:1089
+#: includes/elementor/widgets/banner-grid-6.php:400
+#: includes/elementor/widgets/banner-grid-52.php:349
+#: includes/elementor/widgets/category-banner.php:142
+#: includes/elementor/widgets/category-banner.php:157
+msgid "Top Left"
+msgstr ""
+
+#: includes/class-sober-vc.php:1065
+#: includes/class-sober-vc.php:1090
+#: includes/elementor/widgets/banner-grid-6.php:402
+#: includes/elementor/widgets/banner-grid-52.php:351
+#: includes/elementor/widgets/category-banner.php:143
+#: includes/elementor/widgets/category-banner.php:158
+msgid "Top Right"
+msgstr ""
+
+#: includes/class-sober-vc.php:1066
+#: includes/class-sober-vc.php:1093
+#: includes/elementor/widgets/banner-grid-6.php:406
+#: includes/elementor/widgets/banner-grid-52.php:355
+#: includes/elementor/widgets/category-banner.php:144
+#: includes/elementor/widgets/category-banner.php:161
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/class-sober-vc.php:1067
+#: includes/class-sober-vc.php:1094
+#: includes/elementor/widgets/banner-grid-6.php:408
+#: includes/elementor/widgets/banner-grid-52.php:357
+#: includes/elementor/widgets/category-banner.php:145
+#: includes/elementor/widgets/category-banner.php:162
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/class-sober-vc.php:1071
+#: includes/class-sober-vc.php:1598
+#: includes/class-sober-vc.php:2271
+#: includes/class-sober-vc.php:2523
+#: includes/elementor/widgets/accordion.php:169
+#: includes/elementor/widgets/banner-grid-4.php:247
+#: includes/elementor/widgets/banner-grid-4.php:250
+#: includes/elementor/widgets/banner-grid-4.php:383
+#: includes/elementor/widgets/banner-grid-6.php:322
+#: includes/elementor/widgets/banner-grid-6.php:325
+#: includes/elementor/widgets/banner-grid-6.php:454
+#: includes/elementor/widgets/banner-grid-52.php:271
+#: includes/elementor/widgets/banner-grid-52.php:274
+#: includes/elementor/widgets/banner-grid-52.php:403
+#: includes/elementor/widgets/banner-simple.php:135
+#: includes/elementor/widgets/banner-simple.php:138
+#: includes/elementor/widgets/banner.php:169
+#: includes/elementor/widgets/banner.php:172
+#: includes/elementor/widgets/banner.php:663
+#: includes/elementor/widgets/category-banner.php:90
+#: includes/elementor/widgets/category-banner.php:180
+#: includes/elementor/widgets/icon-box-carousel.php:332
+#: includes/elementor/widgets/icon-box.php:334
+#: includes/elementor/widgets/price-table.php:78
+#: includes/elementor/widgets/section-heading.php:79
+#: includes/elementor/widgets/section-heading.php:232
+#: includes/elementor/widgets/subscribe-box.php:80
+#: includes/elementor/widgets/subscribe-box.php:135
+#: includes/elementor/widgets/tabs.php:172
+#: includes/widgets/instagram.php:120
+#: includes/widgets/popular-posts.php:129
+#: includes/widgets/products-filter.php:1176
+msgid "Title"
+msgstr ""
+
+#: includes/class-sober-vc.php:1072
+msgid "The banner title"
+msgstr ""
+
+#: includes/class-sober-vc.php:1078
+#: includes/class-sober-vc.php:2277
+#: includes/elementor/widgets/banner-grid-4.php:258
+#: includes/elementor/widgets/banner-grid-4.php:261
+#: includes/elementor/widgets/banner-grid-4.php:412
+#: includes/elementor/widgets/banner-grid-6.php:333
+#: includes/elementor/widgets/banner-grid-6.php:335
+#: includes/elementor/widgets/banner-grid-6.php:483
+#: includes/elementor/widgets/banner-grid-52.php:282
+#: includes/elementor/widgets/banner-grid-52.php:284
+#: includes/elementor/widgets/banner-grid-52.php:432
+#: includes/elementor/widgets/banner.php:180
+#: includes/elementor/widgets/banner.php:183
+#: includes/elementor/widgets/banner.php:724
+#: includes/elementor/widgets/category-banner.php:100
+#: includes/elementor/widgets/category-banner.php:218
+#: includes/elementor/widgets/icon-box-carousel.php:382
+#: includes/elementor/widgets/icon-box.php:384
+#: includes/elementor/widgets/subscribe-box.php:90
+#: includes/elementor/widgets/subscribe-box.php:162
+#: includes/size-guide.php:452
+msgid "Description"
+msgstr ""
+
+#: includes/class-sober-vc.php:1079
+msgid "The banner description"
+msgstr ""
+
+#: includes/class-sober-vc.php:1084
+msgid "Text Position"
+msgstr ""
+
+#: includes/class-sober-vc.php:1085
+msgid "Select the position for title and description"
+msgstr ""
+
+#: includes/class-sober-vc.php:1091
+#: includes/elementor/widgets/category-banner.php:159
+msgid "Middle Left"
+msgstr ""
+
+#: includes/class-sober-vc.php:1092
+#: includes/elementor/widgets/category-banner.php:160
+msgid "Middle Right"
+msgstr ""
+
+#: includes/class-sober-vc.php:1127
+msgid "Sober Product"
+msgstr ""
+
+#: includes/class-sober-vc.php:1128
+msgid "Display single product banner"
+msgstr ""
+
+#: includes/class-sober-vc.php:1134
+msgid "Button Behaviour"
+msgstr ""
+
+#: includes/class-sober-vc.php:1135
+#: includes/class-sober-vc.php:1196
+msgid "Select color scheme for product"
+msgstr ""
+
+#: includes/class-sober-vc.php:1139
+msgid "Link to product"
+msgstr ""
+
+#: includes/class-sober-vc.php:1140
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/class-sober-vc.php:1146
+msgid "Enter product ID. Allow number only."
+msgstr ""
+
+#: includes/class-sober-vc.php:1156
+msgid "Product URL"
+msgstr ""
+
+#: includes/class-sober-vc.php:1165
+#: includes/class-sober-vc.php:1924
+msgid "Images"
+msgstr ""
+
+#: includes/class-sober-vc.php:1166
+msgid "Upload a product image"
+msgstr ""
+
+#: includes/class-sober-vc.php:1172
+msgid "Product name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1173
+msgid "Enter product name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1179
+#: includes/elementor/widgets/product-banner.php:132
+msgid "Product description"
+msgstr ""
+
+#: includes/class-sober-vc.php:1180
+msgid "Enter product description"
+msgstr ""
+
+#: includes/class-sober-vc.php:1185
+msgid "Product price"
+msgstr ""
+
+#: includes/class-sober-vc.php:1186
+msgid "Enter product price. Only allow number."
+msgstr ""
+
+#: includes/class-sober-vc.php:1217
+msgid "Banner Grid 4"
+msgstr ""
+
+#: includes/class-sober-vc.php:1218
+msgid "Arrange 4 banners per row with unusual structure."
+msgstr ""
+
+#: includes/class-sober-vc.php:1228
+#: includes/class-sober-vc.php:1298
+msgid "Reverse Order"
+msgstr ""
+
+#: includes/class-sober-vc.php:1229
+#: includes/class-sober-vc.php:1299
+msgid "Reverse the order of banners inside this grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:1245
+msgid "Banner Grid 5"
+msgstr ""
+
+#: includes/class-sober-vc.php:1246
+msgid "Arrange 5 banners in 3 columns."
+msgstr ""
+
+#: includes/class-sober-vc.php:1266
+msgid "Banner Grid 5 (v2)"
+msgstr ""
+
+#: includes/class-sober-vc.php:1267
+msgid "Arrange 5 banners in 2 rows."
+msgstr ""
+
+#: includes/class-sober-vc.php:1287
+#: includes/elementor/widgets/banner-grid-6.php:245
+msgid "Banner Grid 6"
+msgstr ""
+
+#: includes/class-sober-vc.php:1288
+msgid "Arrange 6 banners in 4 columns."
+msgstr ""
+
+#: includes/class-sober-vc.php:1315
+#: includes/elementor/widgets/chart.php:73
+msgid "Circle Chart"
+msgstr ""
+
+#: includes/class-sober-vc.php:1316
+msgid "Circle chart with animation"
+msgstr ""
+
+#: includes/class-sober-vc.php:1322
+#: includes/class-sober-vc.php:2110
+#: includes/elementor/widgets/chart.php:79
+#: includes/elementor/widgets/google-map.php:78
+#: includes/elementor/widgets/info-list.php:103
+#: includes/elementor/widgets/info-list.php:296
+msgid "Value"
+msgstr ""
+
+#: includes/class-sober-vc.php:1323
+msgid "Enter the chart value in percentage. Minimum 0 and maximum 100."
+msgstr ""
+
+#: includes/class-sober-vc.php:1330
+#: includes/elementor/widgets/chart.php:98
+msgid "Circle Size"
+msgstr ""
+
+#: includes/class-sober-vc.php:1331
+msgid "Width of the circle"
+msgstr ""
+
+#: includes/class-sober-vc.php:1337
+msgid "Circle thickness"
+msgstr ""
+
+#: includes/class-sober-vc.php:1338
+msgid "Width of the arc"
+msgstr ""
+
+#: includes/class-sober-vc.php:1345
+msgid "Pick color for the circle"
+msgstr ""
+
+#: includes/class-sober-vc.php:1351
+msgid "Label Source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1352
+msgid "Chart label source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1356
+#: includes/elementor/widgets/button.php:136
+#: includes/widgets/products-filter.php:1398
+msgid "Auto"
+msgstr ""
+
+#: includes/class-sober-vc.php:1357
+#: includes/elementor/widgets/button.php:227
+#: includes/elementor/widgets/chart.php:128
+#: includes/elementor/widgets/product-banner.php:190
+msgid "Custom"
+msgstr ""
+
+#: includes/class-sober-vc.php:1361
+msgid "Custom label"
+msgstr ""
+
+#: includes/class-sober-vc.php:1362
+msgid "Text label for the chart"
+msgstr ""
+
+#: includes/class-sober-vc.php:1382
+msgid "Sober Message Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1383
+msgid "Notification box with close button"
+msgstr ""
+
+#: includes/class-sober-vc.php:1389
+#: includes/elementor/widgets/button.php:100
+#: includes/elementor/widgets/message-box.php:79
+#: includes/elementor/widgets/products-carousel.php:77
+#: includes/elementor/widgets/products-grid.php:78
+#: includes/elementor/widgets/tabs.php:124
+msgid "Type"
+msgstr ""
+
+#: includes/class-sober-vc.php:1390
+msgid "Select message box type"
+msgstr ""
+
+#: includes/class-sober-vc.php:1397
+#: includes/elementor/widgets/message-box.php:82
+msgid "Success"
+msgstr ""
+
+#: includes/class-sober-vc.php:1398
+msgid "Informational"
+msgstr ""
+
+#: includes/class-sober-vc.php:1399
+#: includes/elementor/widgets/message-box.php:84
+msgid "Error"
+msgstr ""
+
+#: includes/class-sober-vc.php:1400
+#: includes/elementor/widgets/message-box.php:85
+msgid "Warning"
+msgstr ""
+
+#: includes/class-sober-vc.php:1404
+msgid "Message Text"
+msgstr ""
+
+#: includes/class-sober-vc.php:1410
+msgid "Closeable"
+msgstr ""
+
+#: includes/class-sober-vc.php:1411
+msgid "Display close button for this box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1430
+#: includes/elementor/widgets/icon-box-carousel.php:422
+#: includes/elementor/widgets/icon-box-carousel.php:431
+#: includes/elementor/widgets/icon-box-carousel.php:440
+#: includes/elementor/widgets/icon-box-carousel.php:449
+#: includes/elementor/widgets/icon-box-carousel.php:458
+#: includes/elementor/widgets/icon-box-carousel.php:467
+#: includes/elementor/widgets/icon-box.php:75
+msgid "Icon Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1431
+msgid "Information box with icon"
+msgstr ""
+
+#: includes/class-sober-vc.php:1437
+msgid "Icon library"
+msgstr ""
+
+#: includes/class-sober-vc.php:1438
+msgid "Select icon library."
+msgstr ""
+
+#: includes/class-sober-vc.php:1442
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/class-sober-vc.php:1443
+msgid "Open Iconic"
+msgstr ""
+
+#: includes/class-sober-vc.php:1444
+msgid "Typicons"
+msgstr ""
+
+#: includes/class-sober-vc.php:1445
+msgid "Entypo"
+msgstr ""
+
+#: includes/class-sober-vc.php:1446
+msgid "Linecons"
+msgstr ""
+
+#: includes/class-sober-vc.php:1447
+msgid "Mono Social"
+msgstr ""
+
+#: includes/class-sober-vc.php:1448
+msgid "Material"
+msgstr ""
+
+#: includes/class-sober-vc.php:1449
+msgid "Custom Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:1450
+#: includes/elementor/widgets/banner-simple.php:87
+#: includes/elementor/widgets/banner.php:88
+#: includes/elementor/widgets/icon-box-carousel.php:88
+#: includes/elementor/widgets/icon-box.php:86
+#: includes/elementor/widgets/logos.php:87
+#: includes/elementor/widgets/product-banner.php:85
+#: includes/elementor/widgets/product-banner.php:107
+msgid "External Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:1454
+#: includes/class-sober-vc.php:1469
+#: includes/class-sober-vc.php:1485
+#: includes/class-sober-vc.php:1501
+#: includes/class-sober-vc.php:1517
+#: includes/class-sober-vc.php:1533
+#: includes/class-sober-vc.php:1549
+#: includes/class-sober-vc.php:2095
+#: includes/elementor/widgets/accordion.php:226
+#: includes/elementor/widgets/icon-box-carousel.php:86
+#: includes/elementor/widgets/icon-box-carousel.php:97
+#: includes/elementor/widgets/icon-box-carousel.php:196
+#: includes/elementor/widgets/icon-box.php:84
+#: includes/elementor/widgets/icon-box.php:95
+#: includes/elementor/widgets/icon-box.php:187
+#: includes/elementor/widgets/info-list.php:82
+#: includes/elementor/widgets/info-list.php:204
+#: includes/elementor/widgets/team-member.php:128
+msgid "Icon"
+msgstr ""
+
+#: includes/class-sober-vc.php:1455
+#: includes/class-sober-vc.php:1470
+#: includes/class-sober-vc.php:1486
+#: includes/class-sober-vc.php:1502
+#: includes/class-sober-vc.php:1518
+#: includes/class-sober-vc.php:1534
+#: includes/class-sober-vc.php:1550
+msgid "Select icon from library."
+msgstr ""
+
+#: includes/class-sober-vc.php:1565
+msgid "Icon Image"
+msgstr ""
+
+#: includes/class-sober-vc.php:1566
+msgid "Upload icon image"
+msgstr ""
+
+#: includes/class-sober-vc.php:1576
+msgid "Icon Image URL"
+msgstr ""
+
+#: includes/class-sober-vc.php:1577
+msgid "Enter image URL"
+msgstr ""
+
+#: includes/class-sober-vc.php:1587
+#: includes/elementor/widgets/icon-box-carousel.php:243
+#: includes/elementor/widgets/icon-box.php:234
+msgid "Icon Style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1588
+msgid "Select icon style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1593
+#: includes/elementor/widgets/chart.php:151
+#: includes/elementor/widgets/icon-box-carousel.php:247
+#: includes/elementor/widgets/icon-box.php:238
+msgid "Circle"
+msgstr ""
+
+#: includes/class-sober-vc.php:1594
+msgid "Round"
+msgstr ""
+
+#: includes/class-sober-vc.php:1599
+#: includes/class-sober-vc.php:1607
+msgid "The box title"
+msgstr ""
+
+#: includes/class-sober-vc.php:1603
+#: includes/shortcodes/class-sober-shortcodes.php:1325
+msgid "I am Icon Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:1606
+#: includes/class-sober-vc.php:1780
+#: includes/class-sober-vc.php:1889
+#: includes/elementor/widgets/accordion.php:82
+#: includes/elementor/widgets/accordion.php:198
+#: includes/elementor/widgets/banner.php:152
+#: includes/elementor/widgets/banner.php:538
+#: includes/elementor/widgets/countdown.php:92
+#: includes/elementor/widgets/icon-box.php:326
+#: includes/elementor/widgets/message-box.php:95
+#: includes/elementor/widgets/message-box.php:141
+#: includes/elementor/widgets/subscribe-box.php:127
+#: includes/elementor/widgets/tabs.php:90
+#: includes/elementor/widgets/tabs.php:238
+#: includes/elementor/widgets/testimonial.php:79
+#: includes/elementor/widgets/testimonial.php:177
+#: includes/elementor/widgets/testimonial.php:185
+msgid "Content"
+msgstr ""
+
+#: includes/class-sober-vc.php:1611
+msgid "I am icon box. Click edit button to change this text."
+msgstr ""
+
+#: includes/class-sober-vc.php:1625
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/class-sober-vc.php:1626
+msgid "Eye catching pricing table"
+msgstr ""
+
+#: includes/class-sober-vc.php:1632
+msgid "Plan Name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1639
+msgid "Plan pricing"
+msgstr ""
+
+#: includes/class-sober-vc.php:1644
+#: includes/elementor/widgets/price-table.php:106
+msgid "Currency"
+msgstr ""
+
+#: includes/class-sober-vc.php:1645
+msgid "Price currency"
+msgstr ""
+
+#: includes/class-sober-vc.php:1651
+#: includes/elementor/widgets/price-table.php:116
+msgid "Recurrence"
+msgstr ""
+
+#: includes/class-sober-vc.php:1652
+#: includes/elementor/widgets/price-table.php:117
+#: includes/elementor/widgets/price-table.php:155
+msgid "Recurring payment unit"
+msgstr ""
+
+#: includes/class-sober-vc.php:1655
+#: includes/elementor/widgets/price-table.php:119
+#: includes/shortcodes/class-sober-shortcodes.php:1385
+msgid "Per Month"
+msgstr ""
+
+#: includes/class-sober-vc.php:1658
+#: includes/elementor/widgets/price-table.php:128
+msgid "Features"
+msgstr ""
+
+#: includes/class-sober-vc.php:1659
+msgid "Feature list of this plan. Click to arrow button to edit."
+msgstr ""
+
+#: includes/class-sober-vc.php:1664
+#: includes/elementor/widgets/price-table.php:138
+msgid "Feature name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1669
+#: includes/elementor/widgets/price-table.php:147
+msgid "Feature value"
+msgstr ""
+
+#: includes/class-sober-vc.php:1679
+#: includes/class-sober-vc.php:1685
+#: includes/elementor/widgets/price-table.php:196
+#: includes/shortcodes/class-sober-shortcodes.php:1387
+msgid "Get Started"
+msgstr ""
+
+#: includes/class-sober-vc.php:1688
+msgid "Table color"
+msgstr ""
+
+#: includes/class-sober-vc.php:1689
+msgid "Pick color scheme for this table. It will be applied to table header and button."
+msgstr ""
+
+#: includes/class-sober-vc.php:1706
+msgid "Sober Maps"
+msgstr ""
+
+#: includes/class-sober-vc.php:1707
+msgid "Google maps in style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1713
+#: includes/elementor/widgets/google-map.php:87
+msgid "API Key"
+msgstr ""
+
+#: includes/class-sober-vc.php:1714
+msgid "Google requires an API key to work."
+msgstr ""
+
+#: includes/class-sober-vc.php:1719
+#: includes/class-sober-vc.php:1805
+#: includes/class-sober-vc.php:2008
+#: includes/class-sober-vc.php:2068
+#: includes/elementor/widgets/google-map.php:97
+#: includes/elementor/widgets/google-map.php:185
+#: includes/elementor/widgets/info-list.php:136
+#: includes/shortcodes/class-sober-shortcodes.php:1775
+#: includes/shortcodes/class-sober-shortcodes.php:1829
+msgid "Address"
+msgstr ""
+
+#: includes/class-sober-vc.php:1720
+msgid "Enter address for map marker. If this option does not work correctly, use the Latitude and Longitude options bellow."
+msgstr ""
+
+#: includes/class-sober-vc.php:1726
+#: includes/class-sober-vc.php:1812
+msgid "Latitude"
+msgstr ""
+
+#: includes/class-sober-vc.php:1733
+#: includes/class-sober-vc.php:1819
+msgid "Longitude"
+msgstr ""
+
+#: includes/class-sober-vc.php:1740
+msgid "Marker"
+msgstr ""
+
+#: includes/class-sober-vc.php:1741
+msgid "Upload custom marker icon or leave this to use default marker."
+msgstr ""
+
+#: includes/class-sober-vc.php:1746
+#: includes/elementor/widgets/banner.php:320
+#: includes/elementor/widgets/button.php:132
+msgid "Width"
+msgstr ""
+
+#: includes/class-sober-vc.php:1747
+msgid "Map width in pixel or percentage."
+msgstr ""
+
+#: includes/class-sober-vc.php:1753
+#: includes/class-sober-vc.php:1826
+#: includes/class-sober-vc.php:2426
+#: includes/elementor/widgets/google-map.php:121
+msgid "Height"
+msgstr ""
+
+#: includes/class-sober-vc.php:1754
+#: includes/class-sober-vc.php:1827
+msgid "Map height in pixel."
+msgstr ""
+
+#: includes/class-sober-vc.php:1760
+#: includes/class-sober-vc.php:1833
+#: includes/elementor/widgets/google-map.php:146
+msgid "Zoom"
+msgstr ""
+
+#: includes/class-sober-vc.php:1761
+#: includes/class-sober-vc.php:1834
+msgid "Enter zoom level. The value is between 1 and 20."
+msgstr ""
+
+#: includes/class-sober-vc.php:1768
+msgid "Select map color style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1774
+#: includes/elementor/widgets/google-map.php:170
+msgid "Grey"
+msgstr ""
+
+#: includes/class-sober-vc.php:1775
+#: includes/elementor/widgets/google-map.php:171
+msgid "Classic Black"
+msgstr ""
+
+#: includes/class-sober-vc.php:1776
+#: includes/elementor/widgets/google-map.php:172
+msgid "Vista Blue"
+msgstr ""
+
+#: includes/class-sober-vc.php:1781
+msgid "Enter content of info window."
+msgstr ""
+
+#: includes/class-sober-vc.php:1798
+msgid "Sober Maps 2"
+msgstr ""
+
+#: includes/class-sober-vc.php:1799
+msgid "Open Street Map in style"
+msgstr ""
+
+#: includes/class-sober-vc.php:1806
+msgid "Enter address for map marker."
+msgstr ""
+
+#: includes/class-sober-vc.php:1851
+#: includes/elementor/widgets/testimonial.php:73
+msgid "Testimonial"
+msgstr ""
+
+#: includes/class-sober-vc.php:1852
+msgid "Written review from a satisfied customer"
+msgstr ""
+
+#: includes/class-sober-vc.php:1858
+msgid "Photo"
+msgstr ""
+
+#: includes/class-sober-vc.php:1859
+msgid "Author photo or avatar. Recommend 160x160 in dimension."
+msgstr ""
+
+#: includes/class-sober-vc.php:1864
+msgid "Name"
+msgstr ""
+
+#: includes/class-sober-vc.php:1865
+msgid "Enter full name of the author"
+msgstr ""
+
+#: includes/class-sober-vc.php:1871
+#: includes/elementor/widgets/testimonial.php:111
+msgid "Company"
+msgstr ""
+
+#: includes/class-sober-vc.php:1872
+msgid "Enter company name of author"
+msgstr ""
+
+#: includes/class-sober-vc.php:1879
+msgid "Select testimonial alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:1890
+msgid "Testimonial content"
+msgstr ""
+
+#: includes/class-sober-vc.php:1907
+msgid "Partner Logos"
+msgstr ""
+
+#: includes/class-sober-vc.php:1908
+msgid "Show list of partner logo"
+msgstr ""
+
+#: includes/class-sober-vc.php:1914
+msgid "Image source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1915
+msgid "Select images source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1919
+#: includes/class-sober-vc.php:2333
+msgid "Media library"
+msgstr ""
+
+#: includes/class-sober-vc.php:1920
+#: includes/class-sober-vc.php:2334
+msgid "External Links"
+msgstr ""
+
+#: includes/class-sober-vc.php:1925
+msgid "Select images from media library"
+msgstr ""
+
+#: includes/class-sober-vc.php:1935
+#: includes/class-sober-vc.php:2189
+#: includes/class-sober-vc.php:2349
+#: includes/class-sober-vc.php:2512
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme). Alternatively enter size in pixels (Example: 200x100 (Width x Height)). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: includes/class-sober-vc.php:1944
+msgid "External links"
+msgstr ""
+
+#: includes/class-sober-vc.php:1945
+msgid "Enter external links for partner logos (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: includes/class-sober-vc.php:1955
+msgid "Enter image size in pixels. Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: includes/class-sober-vc.php:1964
+msgid "Custom links"
+msgstr ""
+
+#: includes/class-sober-vc.php:1965
+msgid "Enter links for each image here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: includes/class-sober-vc.php:1970
+msgid "Custom link target"
+msgstr ""
+
+#: includes/class-sober-vc.php:1971
+msgid "Select where to open custom links."
+msgstr ""
+
+#: includes/class-sober-vc.php:1975
+msgid "Same window"
+msgstr ""
+
+#: includes/class-sober-vc.php:1976
+msgid "New window"
+msgstr ""
+
+#: includes/class-sober-vc.php:1980
+msgid "Layout"
+msgstr ""
+
+#: includes/class-sober-vc.php:1981
+msgid "Select the layout images source"
+msgstr ""
+
+#: includes/class-sober-vc.php:1985
+msgid "Bordered"
+msgstr ""
+
+#: includes/class-sober-vc.php:1986
+msgid "Plain"
+msgstr ""
+
+#: includes/class-sober-vc.php:2001
+msgid "Contact Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:2002
+msgid "Contact information"
+msgstr ""
+
+#: includes/class-sober-vc.php:2009
+msgid "The office address"
+msgstr ""
+
+#: includes/class-sober-vc.php:2015
+#: includes/class-sober-vc.php:2073
+#: includes/elementor/widgets/info-list.php:144
+#: includes/shortcodes/class-sober-shortcodes.php:1780
+#: includes/shortcodes/class-sober-shortcodes.php:1834
+msgid "Phone"
+msgstr ""
+
+#: includes/class-sober-vc.php:2016
+#: includes/class-sober-vc.php:2037
+msgid "The phone number"
+msgstr ""
+
+#: includes/class-sober-vc.php:2022
+#: includes/class-sober-vc.php:2078
+#: includes/elementor/widgets/info-list.php:152
+#: includes/shortcodes/class-sober-shortcodes.php:1786
+#: includes/shortcodes/class-sober-shortcodes.php:1839
+msgid "Fax"
+msgstr ""
+
+#: includes/class-sober-vc.php:2023
+msgid "The fax number"
+msgstr ""
+
+#: includes/class-sober-vc.php:2029
+#: includes/class-sober-vc.php:2083
+#: includes/class-sober-vc.php:2239
+#: includes/elementor/widgets/info-list.php:160
+#: includes/shortcodes/class-sober-shortcodes.php:1791
+#: includes/shortcodes/class-sober-shortcodes.php:1844
+msgid "Email"
+msgstr ""
+
+#: includes/class-sober-vc.php:2030
+msgid "The email adress"
+msgstr ""
+
+#: includes/class-sober-vc.php:2036
+#: includes/class-sober-vc.php:2088
+#: includes/shortcodes/class-sober-shortcodes.php:1797
+#: includes/shortcodes/class-sober-shortcodes.php:1849
+msgid "Website"
+msgstr ""
+
+#: includes/class-sober-vc.php:2054
+#: includes/elementor/widgets/info-list.php:74
+msgid "Info List"
+msgstr ""
+
+#: includes/class-sober-vc.php:2055
+msgid "List of information"
+msgstr ""
+
+#: includes/class-sober-vc.php:2061
+#: includes/class-sober-vc.php:2496
+#: includes/elementor/widgets/message-box.php:83
+msgid "Information"
+msgstr ""
+
+#: includes/class-sober-vc.php:2062
+msgid "Enter information"
+msgstr ""
+
+#: includes/class-sober-vc.php:2104
+#: includes/elementor/widgets/chart.php:124
+#: includes/elementor/widgets/chart.php:137
+#: includes/elementor/widgets/chart.php:181
+#: includes/elementor/widgets/info-list.php:95
+#: includes/elementor/widgets/info-list.php:267
+msgid "Label"
+msgstr ""
+
+#: includes/class-sober-vc.php:2128
+#: includes/elementor/widgets/faq.php:73
+msgid "FAQ"
+msgstr ""
+
+#: includes/class-sober-vc.php:2129
+msgid "Question and answer toggle"
+msgstr ""
+
+#: includes/class-sober-vc.php:2136
+#: includes/elementor/widgets/faq.php:79
+#: includes/elementor/widgets/faq.php:112
+#: includes/elementor/widgets/faq.php:168
+#: includes/elementor/widgets/faq.php:206
+#: includes/shortcodes/class-sober-shortcodes.php:1930
+msgid "Question"
+msgstr ""
+
+#: includes/class-sober-vc.php:2137
+msgid "Enter title of toggle block."
+msgstr ""
+
+#: includes/class-sober-vc.php:2142
+#: includes/elementor/widgets/faq.php:82
+#: includes/shortcodes/class-sober-shortcodes.php:1904
+msgid "Question content goes here"
+msgstr ""
+
+#: includes/class-sober-vc.php:2145
+#: includes/elementor/widgets/faq.php:89
+#: includes/elementor/widgets/faq.php:130
+#: includes/elementor/widgets/faq.php:173
+#: includes/elementor/widgets/faq.php:211
+#: includes/shortcodes/class-sober-shortcodes.php:1932
+msgid "Answer"
+msgstr ""
+
+#: includes/class-sober-vc.php:2146
+msgid "Toggle block content."
+msgstr ""
+
+#: includes/class-sober-vc.php:2151
+#: includes/elementor/widgets/faq.php:91
+msgid "Answer content goes here, click edit button to change this text."
+msgstr ""
+
+#: includes/class-sober-vc.php:2154
+msgid "Default state"
+msgstr ""
+
+#: includes/class-sober-vc.php:2155
+msgid "Select \"Open\" if you want toggle to be open by default."
+msgstr ""
+
+#: includes/class-sober-vc.php:2159
+msgid "Closed"
+msgstr ""
+
+#: includes/class-sober-vc.php:2160
+#: includes/elementor/widgets/faq.php:100
+msgid "Open"
+msgstr ""
+
+#: includes/class-sober-vc.php:2175
+#: includes/elementor/widgets/team-member.php:74
+msgid "Team Member"
+msgstr ""
+
+#: includes/class-sober-vc.php:2176
+msgid "Single team member information"
+msgstr ""
+
+#: includes/class-sober-vc.php:2183
+msgid "Member photo"
+msgstr ""
+
+#: includes/class-sober-vc.php:2188
+#: includes/elementor/widgets/testimonial.php:152
+msgid "Image Size"
+msgstr ""
+
+#: includes/class-sober-vc.php:2195
+#: includes/elementor/widgets/team-member.php:100
+msgid "Full Name"
+msgstr ""
+
+#: includes/class-sober-vc.php:2196
+msgid "Member name"
+msgstr ""
+
+#: includes/class-sober-vc.php:2202
+msgid "Job"
+msgstr ""
+
+#: includes/class-sober-vc.php:2203
+msgid "The job/position name of member in your team"
+msgstr ""
+
+#: includes/class-sober-vc.php:2209
+#: includes/user.php:14
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-sober-vc.php:2214
+#: includes/user.php:15
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-sober-vc.php:2219
+#: includes/user.php:16
+msgid "Pinterest"
+msgstr ""
+
+#: includes/class-sober-vc.php:2224
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-sober-vc.php:2229
+msgid "Youtube"
+msgstr ""
+
+#: includes/class-sober-vc.php:2234
+#: includes/user.php:17
+msgid "Instagram"
+msgstr ""
+
+#: includes/class-sober-vc.php:2264
+#: includes/elementor/widgets/subscribe-box.php:74
+msgid "Subscribe Box"
+msgstr ""
+
+#: includes/class-sober-vc.php:2265
+msgid "MailChimp subscribe form"
+msgstr ""
+
+#: includes/class-sober-vc.php:2283
+#: includes/elementor/widgets/subscribe-box.php:102
+#: includes/elementor/widgets/subscribe-box.php:192
+msgid "Form"
+msgstr ""
+
+#: includes/class-sober-vc.php:2284
+msgid "Select the MailChimp form"
+msgstr ""
+
+#: includes/class-sober-vc.php:2290
+msgid "Form Style"
+msgstr ""
+
+#: includes/class-sober-vc.php:2291
+msgid "Select the style for this form"
+msgstr ""
+
+#: includes/class-sober-vc.php:2320
+msgid "Simple Banner"
+msgstr ""
+
+#: includes/class-sober-vc.php:2321
+msgid "Simple banner image with text bellow"
+msgstr ""
+
+#: includes/class-sober-vc.php:2327
+#: includes/elementor/widgets/banner-simple.php:82
+#: includes/elementor/widgets/banner.php:83
+#: includes/elementor/widgets/product-banner.php:80
+msgid "Image Source"
+msgstr ""
+
+#: includes/class-sober-vc.php:2328
+msgid "Select image source."
+msgstr ""
+
+#: includes/class-sober-vc.php:2339
+#: includes/class-sober-vc.php:2502
+msgid "Select image from media library"
+msgstr ""
+
+#: includes/class-sober-vc.php:2359
+msgid "External link"
+msgstr ""
+
+#: includes/class-sober-vc.php:2360
+msgid "Enter external link of the image."
+msgstr ""
+
+#: includes/class-sober-vc.php:2377
+msgid "Select image & text alignment"
+msgstr ""
+
+#: includes/class-sober-vc.php:2395
+msgid "Button Text (optional)"
+msgstr ""
+
+#: includes/class-sober-vc.php:2396
+msgid "Display a button at bottom"
+msgstr ""
+
+#: includes/class-sober-vc.php:2419
+msgid "Empty Space Advanced"
+msgstr ""
+
+#: includes/class-sober-vc.php:2420
+msgid "Empty spacing with resposive options"
+msgstr ""
+
+#: includes/class-sober-vc.php:2440
+msgid "Desktop"
+msgstr ""
+
+#: includes/class-sober-vc.php:2444
+#: includes/class-sober-vc.php:2452
+#: includes/class-sober-vc.php:2459
+#: includes/class-sober-vc.php:2467
+#: includes/class-sober-vc.php:2474
+#: includes/class-sober-vc.php:2482
+msgid "Responsive Options"
+msgstr ""
+
+#: includes/class-sober-vc.php:2447
+#: includes/class-sober-vc.php:2462
+#: includes/class-sober-vc.php:2477
+#: includes/elementor/widgets/products-tabs.php:257
+msgid "Hide"
+msgstr ""
+
+#: includes/class-sober-vc.php:2455
+msgid "Tablet"
+msgstr ""
+
+#: includes/class-sober-vc.php:2470
+msgid "Mobile"
+msgstr ""
+
+#: includes/class-sober-vc.php:2489
+msgid "Collection Carousel"
+msgstr ""
+
+#: includes/class-sober-vc.php:2490
+msgid "Image carousel"
+msgstr ""
+
+#: includes/class-sober-vc.php:2533
+msgid "URL"
+msgstr ""
+
+#: includes/class-sober-vc.php:2553
+msgid "Free mode"
+msgstr ""
+
+#: includes/class-sober-vc.php:2554
+msgid "Display images in their width and also make neighbour slides visible"
+msgstr ""
+
+#: includes/class-sober-vc.php:2560
+msgid "Navigation"
+msgstr ""
+
+#: includes/class-sober-vc.php:2565
+#: includes/elementor/widgets/banner-grid-4.php:224
+#: includes/elementor/widgets/banner-grid-6.php:302
+#: includes/elementor/widgets/banner-grid-52.php:251
+#: includes/elementor/widgets/banner.php:140
+msgid "None"
+msgstr ""
+
+#: includes/class-sober-vc.php:2566
+msgid "Arrows"
+msgstr ""
+
+#: includes/class-sober-vc.php:2567
+msgid "Dots"
+msgstr ""
+
+#: includes/class-sober-vc.php:2568
+msgid "Arrows and Dots"
+msgstr ""
+
+#: includes/class-sober-vc.php:2583
+msgid "Portfolio Grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:2584
+msgid "Display portfolio in grid"
+msgstr ""
+
+#: includes/class-sober-vc.php:2590
+#: includes/class-sober-vc.php:2626
+#: includes/class-sober-vc.php:2662
+msgid "Number of portfolio you want to show"
+msgstr ""
+
+#: includes/class-sober-vc.php:2591
+#: includes/class-sober-vc.php:2627
+#: includes/class-sober-vc.php:2663
+msgid "Number of portfolio"
+msgstr ""
+
+#: includes/class-sober-vc.php:2597
+#: includes/class-sober-vc.php:2633
+#: includes/class-sober-vc.php:2669
+#: includes/widgets/products-filter.php:129
+msgid "Filter"
+msgstr ""
+
+#: includes/class-sober-vc.php:2598
+#: includes/class-sober-vc.php:2634
+#: includes/class-sober-vc.php:2670
+msgid "Show Filter"
+msgstr ""
+
+#: includes/class-sober-vc.php:2619
+msgid "Portfolio Masonry"
+msgstr ""
+
+#: includes/class-sober-vc.php:2620
+msgid "Display portfolio in masonry"
+msgstr ""
+
+#: includes/class-sober-vc.php:2655
+msgid "Portfolio Metro"
+msgstr ""
+
+#: includes/class-sober-vc.php:2656
+msgid "Display portfolio in metro"
+msgstr ""
+
+#: includes/elementor/modules/custom-css.php:37
+#: includes/elementor/modules/custom-css.php:54
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/elementor/modules/custom-css.php:45
+msgid "Add your own custom CSS here"
+msgstr ""
+
+#: includes/elementor/modules/custom-css.php:65
+msgid "Use \"selector\" to target wrapper element. Examples:<br>selector {color: red;} // For main element<br>selector .child-element {margin: 10px;} // For child element<br>.my-class {text-align: center;} // Or use any custom selector"
+msgstr ""
+
+#: includes/elementor/modules/motion-parallax.php:28
+msgid "Parallax Scrolling"
+msgstr ""
+
+#: includes/elementor/modules/motion-parallax.php:30
+#: includes/elementor/widgets/image-slider.php:195
+#: includes/elementor/widgets/message-box.php:108
+msgid "Off"
+msgstr ""
+
+#: includes/elementor/modules/motion-parallax.php:31
+#: includes/elementor/widgets/banner.php:235
+#: includes/elementor/widgets/image-slider.php:194
+#: includes/elementor/widgets/message-box.php:107
+msgid "On"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:32
+msgid "[Sober] Accordion"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:60
+#: includes/elementor/widgets/accordion.php:133
+msgid "Accordion"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:69
+#: includes/elementor/widgets/icon-box-carousel.php:143
+#: includes/elementor/widgets/icon-box.php:141
+#: includes/elementor/widgets/tabs.php:79
+msgid "Title & Description"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:71
+msgid "Accordion Title"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:84
+msgid "Accordion Content"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:92
+msgid "Accordion Items"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:97
+msgid "Accordion #1"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:98
+#: includes/elementor/widgets/accordion.php:102
+#: includes/elementor/widgets/icon-box-carousel.php:156
+#: includes/elementor/widgets/icon-box.php:154
+#: includes/elementor/widgets/tabs.php:110
+#: includes/elementor/widgets/tabs.php:114
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:101
+msgid "Accordion #2"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:112
+#: includes/elementor/widgets/banner-simple.php:147
+msgid "Title HTML Tag"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:141
+msgid "Border Width"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:158
+#: includes/elementor/widgets/icon-box-carousel.php:282
+#: includes/elementor/widgets/icon-box.php:273
+msgid "Border Color"
+msgstr ""
+
+#: includes/elementor/widgets/accordion.php:249
+#: includes/elementor/widgets/tabs.php:192
+msgid "Active Color"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:34
+msgid "[Sober] Banner Grid 4"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:76
+#: includes/elementor/widgets/banner-grid-5.php:75
+#: includes/elementor/widgets/banner-grid-6.php:76
+#: includes/elementor/widgets/banner-grid-52.php:76
+msgid "Banner 1"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:103
+#: includes/elementor/widgets/banner-grid-5.php:80
+#: includes/elementor/widgets/banner-grid-6.php:104
+#: includes/elementor/widgets/banner-grid-52.php:103
+msgid "Banner 2"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:130
+#: includes/elementor/widgets/banner-grid-5.php:85
+#: includes/elementor/widgets/banner-grid-6.php:132
+#: includes/elementor/widgets/banner-grid-52.php:130
+msgid "Banner 3"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:157
+#: includes/elementor/widgets/banner-grid-5.php:91
+#: includes/elementor/widgets/banner-grid-6.php:160
+#: includes/elementor/widgets/banner-grid-52.php:157
+msgid "Banner 4"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:192
+#: includes/elementor/widgets/banner-grid-5.php:109
+#: includes/elementor/widgets/banner-grid-6.php:270
+#: includes/elementor/widgets/banner-grid-52.php:219
+#: includes/elementor/widgets/banner-simple.php:76
+#: includes/elementor/widgets/banner-simple.php:190
+msgid "Banner"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:220
+#: includes/elementor/widgets/banner-grid-6.php:298
+#: includes/elementor/widgets/banner-grid-52.php:247
+#: includes/elementor/widgets/banner.php:136
+msgid "Hover Effect"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:225
+#: includes/elementor/widgets/banner-grid-6.php:303
+#: includes/elementor/widgets/banner-grid-52.php:252
+#: includes/elementor/widgets/banner.php:141
+msgid "Zoom In"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:226
+#: includes/elementor/widgets/banner.php:142
+msgid "Overlay Box"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:227
+#: includes/elementor/widgets/banner.php:143
+msgid "Zoom in & Overlay Box"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:235
+#: includes/elementor/widgets/banner-grid-4.php:238
+#: includes/elementor/widgets/banner-grid-4.php:355
+#: includes/elementor/widgets/banner-grid-6.php:311
+#: includes/elementor/widgets/banner-grid-6.php:313
+#: includes/elementor/widgets/banner-grid-6.php:426
+#: includes/elementor/widgets/banner-grid-52.php:260
+#: includes/elementor/widgets/banner-grid-52.php:262
+#: includes/elementor/widgets/banner-grid-52.php:375
+#: includes/elementor/widgets/banner.php:158
+#: includes/elementor/widgets/banner.php:161
+#: includes/elementor/widgets/banner.php:599
+msgid "Subtitle"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:237
+#: includes/elementor/widgets/banner.php:160
+msgid "Banner subtitle"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:249
+#: includes/elementor/widgets/banner-grid-6.php:324
+#: includes/elementor/widgets/banner-grid-52.php:273
+#: includes/elementor/widgets/banner-simple.php:137
+#: includes/elementor/widgets/banner.php:171
+msgid "Banner Title"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:279
+#: includes/elementor/widgets/banner-grid-5.php:157
+#: includes/elementor/widgets/banner-grid-5.php:187
+#: includes/elementor/widgets/banner-grid-6.php:353
+#: includes/elementor/widgets/banner-grid-52.php:302
+#: includes/elementor/widgets/banner.php:207
+#: includes/elementor/widgets/banner.php:256
+#: includes/elementor/widgets/button.php:88
+#: includes/elementor/widgets/category-banner.php:118
+#: includes/elementor/widgets/info-list.php:111
+#: includes/elementor/widgets/logos.php:138
+#: includes/elementor/widgets/product-banner.php:152
+#: includes/elementor/widgets/section-heading.php:92
+#: includes/elementor/widgets/section-heading.php:182
+#: includes/elementor/widgets/team-member.php:204
+msgid "Link"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:281
+#: includes/elementor/widgets/banner-grid-5.php:159
+#: includes/elementor/widgets/banner-grid-5.php:189
+#: includes/elementor/widgets/banner-grid-6.php:355
+#: includes/elementor/widgets/banner-grid-52.php:304
+#: includes/elementor/widgets/banner-simple.php:168
+#: includes/elementor/widgets/banner.php:209
+#: includes/elementor/widgets/banner.php:258
+#: includes/elementor/widgets/button.php:90
+#: includes/elementor/widgets/category-banner.php:120
+#: includes/elementor/widgets/image-slider.php:111
+#: includes/elementor/widgets/info-list.php:120
+#: includes/elementor/widgets/logos.php:143
+#: includes/elementor/widgets/price-table.php:205
+#: includes/elementor/widgets/product-banner.php:154
+#: includes/elementor/widgets/team-member.php:213
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:310
+#: includes/elementor/widgets/banner-grid-6.php:384
+#: includes/elementor/widgets/banner-grid-52.php:333
+#: includes/elementor/widgets/banner.php:293
+msgid "Always"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:311
+#: includes/elementor/widgets/banner-grid-6.php:385
+#: includes/elementor/widgets/banner-grid-52.php:334
+#: includes/elementor/widgets/banner.php:294
+msgid "Fadein on hover"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:312
+#: includes/elementor/widgets/banner-grid-6.php:386
+#: includes/elementor/widgets/banner-grid-52.php:335
+#: includes/elementor/widgets/banner.php:295
+msgid "Fadein-Up on hover"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:320
+#: includes/elementor/widgets/banner-grid-6.php:394
+#: includes/elementor/widgets/banner-grid-52.php:343
+#: includes/elementor/widgets/banner.php:361
+#: includes/elementor/widgets/category-banner.php:153
+msgid "Content Position"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:441
+#: includes/elementor/widgets/banner-grid-5.php:139
+#: includes/elementor/widgets/banner-grid-6.php:512
+#: includes/elementor/widgets/banner-grid-52.php:461
+#: includes/elementor/widgets/button.php:72
+#: includes/elementor/widgets/button.php:212
+#: includes/elementor/widgets/category-banner.php:109
+#: includes/elementor/widgets/subscribe-box.php:233
+msgid "Button"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:471
+#: includes/elementor/widgets/banner-grid-4.php:506
+#: includes/elementor/widgets/banner-grid-6.php:542
+#: includes/elementor/widgets/banner-grid-6.php:577
+#: includes/elementor/widgets/banner-grid-52.php:491
+#: includes/elementor/widgets/banner-grid-52.php:526
+msgid "Background"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-4.php:487
+#: includes/elementor/widgets/banner-grid-6.php:558
+#: includes/elementor/widgets/banner-grid-52.php:507
+#: includes/elementor/widgets/banner.php:862
+#: includes/elementor/widgets/button.php:277
+#: includes/elementor/widgets/subscribe-box.php:274
+msgid "Hover"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-5.php:33
+msgid "[Sober] Banner Grid 5"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-5.php:96
+#: includes/elementor/widgets/banner-grid-6.php:188
+#: includes/elementor/widgets/banner-grid-52.php:184
+msgid "Banner 5"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-5.php:170
+#: includes/elementor/widgets/banner.php:233
+msgid "Second Button"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-6.php:34
+msgid "[Sober] Banner Grid 6"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-6.php:216
+msgid "Banner 6"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-6.php:252
+msgid "Reverse Banners Order"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-6.php:401
+#: includes/elementor/widgets/banner-grid-52.php:350
+msgid "Top Center"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-6.php:407
+#: includes/elementor/widgets/banner-grid-52.php:356
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/elementor/widgets/banner-grid-52.php:34
+msgid "[Sober] Banner Grid 5 (v2)"
+msgstr ""
+
+#: includes/elementor/widgets/banner-simple.php:34
+msgid "[Sober] Banner Simple"
+msgstr ""
+
+#: includes/elementor/widgets/banner-simple.php:86
+#: includes/elementor/widgets/banner.php:87
+#: includes/elementor/widgets/product-banner.php:84
+msgid "Media Library"
+msgstr ""
+
+#: includes/elementor/widgets/banner-simple.php:123
+#: includes/elementor/widgets/banner.php:113
+#: includes/elementor/widgets/logos.php:124
+msgid "Image URL"
+msgstr ""
+
+#: includes/elementor/widgets/banner-simple.php:166
+msgid "Banner Link"
+msgstr ""
+
+#: includes/elementor/widgets/banner-simple.php:181
+#: includes/elementor/widgets/section-heading.php:172
+#: includes/shortcodes/class-sober-shortcodes.php:499
+msgid "Read More"
+msgstr ""
+
+#: includes/elementor/widgets/banner-simple.php:218
+#: includes/elementor/widgets/banner.php:586
+msgid "Justify"
+msgstr ""
+
+#: includes/elementor/widgets/banner-simple.php:231
+msgid "Title Color"
+msgstr ""
+
+#: includes/elementor/widgets/banner-simple.php:244
+msgid "Title Typography"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:35
+msgid "[Sober] Banner Image"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:236
+msgid "OFF"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:288
+msgid "Buttons Visibility"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:305
+msgid "Width & Position"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:312
+msgid "Content Width"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:324
+msgctxt "Banner image content width"
+msgid "Default"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:325
+msgctxt "Banner image content width"
+msgid "Custom"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:336
+msgid "Custom Width"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:370
+msgid "Horizontal Orientation"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:402
+msgid "Vertical Orientation"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:546
+msgid "Padding"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:641
+#: includes/elementor/widgets/banner.php:702
+#: includes/elementor/widgets/banner.php:763
+msgid "Bottom Space"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:804
+#: includes/elementor/widgets/banner.php:869
+#: includes/elementor/widgets/button.php:243
+#: includes/elementor/widgets/button.php:284
+#: includes/elementor/widgets/category-banner.php:257
+#: includes/elementor/widgets/subscribe-box.php:250
+#: includes/elementor/widgets/subscribe-box.php:281
+msgid "Button Color"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:816
+#: includes/elementor/widgets/banner.php:881
+msgid "Button Background"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:830
+#: includes/elementor/widgets/banner.php:896
+msgid "Second Button Color"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:845
+#: includes/elementor/widgets/banner.php:911
+msgid "Second Button Background"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:938
+msgid "Button Typography"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:961
+msgid "Second Button Typography"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:994
+msgid "Button Padding"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:1017
+msgid "Second Button Padding"
+msgstr ""
+
+#: includes/elementor/widgets/banner.php:1041
+msgid "Buttons Space"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:30
+msgid "[Sober] Button"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:80
+msgid "Click here"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:81
+msgid "Button text"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:120
+#: includes/elementor/widgets/section-heading.php:113
+msgid "Medium"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:137
+#: includes/elementor/widgets/button.php:148
+msgid "Min Width"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:182
+#: includes/elementor/widgets/section-heading.php:158
+#: includes/elementor/widgets/tabs.php:224
+msgid "Justified"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:193
+msgid "Button ID"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:199
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: includes/elementor/widgets/button.php:201
+msgid "Please make sure the ID is unique and not used elsewhere on the page this form is displayed. This field allows <code>A-z 0-9</code> & underscore chars without spaces."
+msgstr ""
+
+#: includes/elementor/widgets/button.php:260
+#: includes/elementor/widgets/button.php:300
+#: includes/elementor/widgets/image-slider.php:213
+#: includes/elementor/widgets/message-box.php:149
+#: includes/elementor/widgets/section-heading.php:240
+#: includes/elementor/widgets/section-heading.php:271
+msgid "Text Color"
+msgstr ""
+
+#: includes/elementor/widgets/category-banner.php:33
+msgid "[Sober] Category Banner"
+msgstr ""
+
+#: includes/elementor/widgets/category-banner.php:93
+msgid "Category Name"
+msgstr ""
+
+#: includes/elementor/widgets/category-banner.php:102
+msgid "Category description"
+msgstr ""
+
+#: includes/elementor/widgets/category-banner.php:111
+msgid "Shop Now"
+msgstr ""
+
+#: includes/elementor/widgets/chart.php:31
+msgid "[Sober] Circle Chart"
+msgstr ""
+
+#: includes/elementor/widgets/chart.php:111
+msgid "Circle Thickness"
+msgstr ""
+
+#: includes/elementor/widgets/chart.php:127
+msgid "Percentage"
+msgstr ""
+
+#: includes/elementor/widgets/chart.php:159
+msgid "Circle Color"
+msgstr ""
+
+#: includes/elementor/widgets/chart.php:169
+msgid "Fill Color"
+msgstr ""
+
+#: includes/elementor/widgets/countdown.php:30
+msgid "[Sober] Countdown"
+msgstr ""
+
+#: includes/elementor/widgets/countdown.php:100
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/elementor/widgets/countdown.php:150
+#: includes/shortcodes/class-sober-shortcodes.php:545
+msgid "Days"
+msgstr ""
+
+#: includes/elementor/widgets/countdown.php:151
+#: includes/shortcodes/class-sober-shortcodes.php:546
+msgid "Hours"
+msgstr ""
+
+#: includes/elementor/widgets/countdown.php:152
+#: includes/shortcodes/class-sober-shortcodes.php:547
+msgid "Mins"
+msgstr ""
+
+#: includes/elementor/widgets/countdown.php:153
+#: includes/shortcodes/class-sober-shortcodes.php:548
+msgid "Sec"
+msgstr ""
+
+#: includes/elementor/widgets/faq.php:31
+msgid "[Sober] FAQ"
+msgstr ""
+
+#: includes/elementor/widgets/faq.php:81
+msgid "Enter the question here"
+msgstr ""
+
+#: includes/elementor/widgets/faq.php:98
+msgid "Default State"
+msgstr ""
+
+#: includes/elementor/widgets/faq.php:101
+msgid "Close"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:30
+msgid "[Sober] Google Map"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:72
+msgid "Google Map"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:101
+#: includes/elementor/widgets/google-map.php:227
+msgctxt "The default address for Google Map"
+msgid "New York"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:110
+#: includes/elementor/widgets/google-map.php:194
+msgid "Or enter coordinates"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:112
+#: includes/elementor/widgets/google-map.php:196
+msgid "Latitude, Longitude"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:165
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:203
+msgid "Infomation"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:212
+msgid "Marker Icon"
+msgstr ""
+
+#: includes/elementor/widgets/google-map.php:222
+msgid "Markers"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:33
+msgid "[Sober] Icon Box Carousel"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:75
+#: includes/elementor/widgets/icon-box-carousel.php:412
+msgid "Icon Boxes"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:83
+#: includes/elementor/widgets/icon-box.php:81
+msgid "Icon Type"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:112
+#: includes/elementor/widgets/icon-box.php:110
+#: includes/elementor/widgets/logos.php:96
+msgid "Choose Image"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:129
+#: includes/elementor/widgets/icon-box.php:127
+msgid "Icon URL"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:145
+#: includes/elementor/widgets/icon-box.php:143
+msgid "This is the heading"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:146
+#: includes/elementor/widgets/icon-box.php:144
+#: includes/elementor/widgets/section-heading.php:84
+msgid "Enter your title"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:157
+#: includes/elementor/widgets/icon-box.php:155
+msgid "Enter your description"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:167
+#: includes/elementor/widgets/icon-box.php:165
+msgid "Title Tag"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:188
+msgid "STYLE SETTINGS"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:204
+#: includes/elementor/widgets/icon-box.php:195
+msgid "Icon Size"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:248
+#: includes/elementor/widgets/icon-box.php:239
+msgid "Rounded"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:257
+#: includes/elementor/widgets/icon-box.php:248
+msgid "Shape Size"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:297
+#: includes/elementor/widgets/icon-box.php:288
+#: includes/elementor/widgets/message-box.php:128
+msgid "Background Color"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:312
+#: includes/elementor/widgets/icon-box-carousel.php:361
+#: includes/elementor/widgets/icon-box.php:303
+#: includes/elementor/widgets/icon-box.php:363
+msgid "Spacing"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:423
+#: includes/elementor/widgets/icon-box-carousel.php:432
+#: includes/elementor/widgets/icon-box-carousel.php:441
+#: includes/elementor/widgets/icon-box-carousel.php:450
+#: includes/elementor/widgets/icon-box-carousel.php:459
+#: includes/elementor/widgets/icon-box-carousel.php:468
+msgctxt "Icon box default description"
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:479
+#: includes/elementor/widgets/icon-box-carousel.php:548
+#: includes/elementor/widgets/products-carousel.php:152
+msgid "Carousel"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:485
+msgid "Boxes to Show"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:505
+#: includes/elementor/widgets/image-slider.php:155
+#: includes/elementor/widgets/products-carousel.php:178
+msgid "Autoplay"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:508
+#: includes/elementor/widgets/icon-box-carousel.php:535
+#: includes/elementor/widgets/image-slider.php:158
+#: includes/elementor/widgets/posts-grid.php:117
+#: includes/elementor/widgets/products-carousel.php:181
+#: includes/elementor/widgets/products-carousel.php:208
+#: includes/elementor/widgets/products-grid.php:171
+#: includes/elementor/widgets/products-tabs.php:134
+msgid "No"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:519
+#: includes/elementor/widgets/products-carousel.php:192
+msgid "Autoplay Speed (ms)"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:532
+#: includes/elementor/widgets/image-slider.php:181
+#: includes/elementor/widgets/products-carousel.php:205
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box-carousel.php:556
+msgid "Boxes Gap"
+msgstr ""
+
+#: includes/elementor/widgets/icon-box.php:33
+msgid "[Sober] Icon Box"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:32
+msgid "[Sober] Image Slider"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:74
+#: includes/elementor/widgets/image-slider.php:205
+msgid "Image Slider"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:93
+msgid "Slide title"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:102
+msgid "Discover"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:109
+#: includes/elementor/widgets/price-table.php:203
+msgid "Button URL"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:118
+msgid "Slides"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:124
+msgid "Slide title 1"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:125
+#: includes/elementor/widgets/image-slider.php:131
+#: includes/elementor/widgets/image-slider.php:137
+msgid "Discover Collection"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:130
+msgid "Slide title 2"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:136
+msgid "Slide title 3"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:149
+msgid "Additional Options"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:168
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:191
+msgid "Free Mode"
+msgstr ""
+
+#: includes/elementor/widgets/image-slider.php:224
+msgid "Text Typography"
+msgstr ""
+
+#: includes/elementor/widgets/info-list.php:32
+msgid "[Sober] Info List"
+msgstr ""
+
+#: includes/elementor/widgets/info-list.php:127
+#: includes/elementor/widgets/info-list.php:173
+msgid "List"
+msgstr ""
+
+#: includes/elementor/widgets/info-list.php:137
+msgid "9606 North MoPac Expressway"
+msgstr ""
+
+#: includes/elementor/widgets/info-list.php:145
+#: includes/elementor/widgets/info-list.php:153
+msgid "+1 248-785-8545"
+msgstr ""
+
+#: includes/elementor/widgets/info-list.php:161
+msgid "sober@uix.store"
+msgstr ""
+
+#: includes/elementor/widgets/info-list.php:181
+msgid "Space Between"
+msgstr ""
+
+#: includes/elementor/widgets/info-list.php:244
+msgid "Space"
+msgstr ""
+
+#: includes/elementor/widgets/logos.php:33
+msgid "[Sober] Logos"
+msgstr ""
+
+#: includes/elementor/widgets/logos.php:75
+#: includes/elementor/widgets/logos.php:176
+msgid "Logos"
+msgstr ""
+
+#: includes/elementor/widgets/logos.php:83
+msgid "Source"
+msgstr ""
+
+#: includes/elementor/widgets/logos.php:151
+msgid "Logo Images"
+msgstr ""
+
+#: includes/elementor/widgets/logos.php:231
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elementor/widgets/message-box.php:31
+msgid "[Sober] Message Box"
+msgstr ""
+
+#: includes/elementor/widgets/message-box.php:73
+#: includes/elementor/widgets/message-box.php:120
+msgid "Message Box"
+msgstr ""
+
+#: includes/elementor/widgets/message-box.php:97
+msgid "Enter your message content"
+msgstr ""
+
+#: includes/elementor/widgets/message-box.php:98
+msgid "I am the message content. Click the edit button to change this text."
+msgstr ""
+
+#: includes/elementor/widgets/message-box.php:105
+msgid "Close Button"
+msgstr ""
+
+#: includes/elementor/widgets/portfolio-grid.php:30
+msgid "[Sober] Portfolio Grid"
+msgstr ""
+
+#: includes/elementor/widgets/portfolio-grid.php:72
+#: includes/portfolio.php:96
+#: includes/portfolio.php:98
+#: includes/portfolio.php:228
+#: includes/portfolio.php:251
+msgid "Portfolio"
+msgstr ""
+
+#: includes/elementor/widgets/portfolio-grid.php:78
+msgid "Number Of Portfolio"
+msgstr ""
+
+#: includes/elementor/widgets/posts-grid.php:30
+msgid "[Sober] Posts Grid"
+msgstr ""
+
+#: includes/elementor/widgets/posts-grid.php:72
+msgid "Posts Grid"
+msgstr ""
+
+#: includes/elementor/widgets/posts-grid.php:78
+#: includes/widgets/popular-posts.php:134
+msgid "Number Of Posts"
+msgstr ""
+
+#: includes/elementor/widgets/posts-grid.php:114
+msgid "Post Meta"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:30
+msgid "[Sober] Price Table"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:72
+msgid "Header & Pricing"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:80
+msgid "Pro"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:97
+msgid "Price Decimal"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:136
+msgid "Feature Name"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:145
+msgid "Feature Value"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:154
+msgid "Features List"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:160
+msgid "Diskspace"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:161
+msgid "8 GB"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:164
+msgid "Bandwidth"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:165
+msgid "100 GB"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:168
+msgid "Sub-domains"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:172
+msgid "Emails"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:176
+msgid "Support"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:188
+msgid "Footer"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:220
+#: includes/size-guide.php:346
+#: includes/size-guide.php:457
+msgid "Table"
+msgstr ""
+
+#: includes/elementor/widgets/price-table.php:228
+msgid "Table Color"
+msgstr ""
+
+#: includes/elementor/widgets/product-banner.php:32
+msgid "[Sober] Product Banner"
+msgstr ""
+
+#: includes/elementor/widgets/product-banner.php:74
+#: includes/elementor/widgets/product-banner.php:176
+msgid "Product Banner"
+msgstr ""
+
+#: includes/elementor/widgets/product-banner.php:120
+#: includes/elementor/widgets/product-banner.php:123
+msgid "Product Name"
+msgstr ""
+
+#: includes/elementor/widgets/product-banner.php:130
+msgid "Product Description"
+msgstr ""
+
+#: includes/elementor/widgets/product-banner.php:139
+msgid "Product Price"
+msgstr ""
+
+#: includes/elementor/widgets/product-banner.php:166
+#: includes/elementor/widgets/product-banner.php:167
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/elementor/widgets/product-banner.php:198
+msgid "Custom Color"
+msgstr ""
+
+#: includes/elementor/widgets/product-banner.php:278
+#: includes/elementor/widgets/product-banner.php:355
+#: includes/shortcodes/class-sober-shortcodes.php:786
+#: includes/shortcodes/class-sober-shortcodes.php:835
+msgid "View Product"
+msgstr ""
+
+#: includes/elementor/widgets/products-carousel.php:29
+msgid "[Sober] Products Carousel"
+msgstr ""
+
+#: includes/elementor/widgets/products-carousel.php:71
+#: includes/elementor/widgets/products-grid.php:72
+#: includes/elementor/widgets/products-tabs.php:71
+msgid "Products"
+msgstr ""
+
+#: includes/elementor/widgets/products-carousel.php:99
+#: includes/elementor/widgets/products-grid.php:100
+#: includes/elementor/widgets/products-tabs.php:203
+msgid "Product tags, separate by commas"
+msgstr ""
+
+#: includes/elementor/widgets/products-carousel.php:158
+msgid "Products to Show"
+msgstr ""
+
+#: includes/elementor/widgets/products-grid.php:30
+msgid "[Sober] Products Grid"
+msgstr ""
+
+#: includes/elementor/widgets/products-grid.php:263
+msgid "Default Sorting (Menu Order)"
+msgstr ""
+
+#: includes/elementor/widgets/products-tabs.php:29
+msgid "[Sober] Products Tabs"
+msgstr ""
+
+#: includes/elementor/widgets/products-tabs.php:154
+msgid "Isotope"
+msgstr ""
+
+#: includes/elementor/widgets/products-tabs.php:155
+msgid "Ajax Loads"
+msgstr ""
+
+#: includes/elementor/widgets/products-tabs.php:216
+#: includes/widgets/products-filter.php:1342
+msgid "Group"
+msgstr ""
+
+#: includes/elementor/widgets/products-tabs.php:254
+msgid "Show All Button"
+msgstr ""
+
+#: includes/elementor/widgets/products-tabs.php:256
+msgid "Show"
+msgstr ""
+
+#: includes/elementor/widgets/section-heading.php:31
+msgid "[Sober] Section Heading"
+msgstr ""
+
+#: includes/elementor/widgets/section-heading.php:73
+#: includes/elementor/widgets/section-heading.php:224
+msgid "Heading"
+msgstr ""
+
+#: includes/elementor/widgets/section-heading.php:85
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: includes/elementor/widgets/section-heading.php:122
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/elementor/widgets/section-heading.php:201
+msgid "View more"
+msgstr ""
+
+#: includes/elementor/widgets/section-heading.php:211
+msgid "Hover Arrow"
+msgstr ""
+
+#: includes/elementor/widgets/section-heading.php:259
+msgid "More Button"
+msgstr ""
+
+#: includes/elementor/widgets/subscribe-box.php:32
+msgid "[Sober] Subscribe Box"
+msgstr ""
+
+#: includes/elementor/widgets/subscribe-box.php:83
+msgid "Join our list"
+msgstr ""
+
+#: includes/elementor/widgets/subscribe-box.php:92
+msgid "Signup to be the first to hear about exclusive deals"
+msgstr ""
+
+#: includes/elementor/widgets/subscribe-box.php:203
+msgid "Fields"
+msgstr ""
+
+#: includes/elementor/widgets/subscribe-box.php:261
+#: includes/elementor/widgets/subscribe-box.php:292
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:36
+msgid "[Sober] Tabs"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:81
+#: includes/elementor/widgets/tabs.php:82
+msgid "Tab Title"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:91
+#: includes/elementor/widgets/tabs.php:92
+msgid "Tab Content"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:104
+msgid "Tabs Items"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:109
+msgid "Tab #1"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:113
+msgid "Tab #2"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:128
+msgid "Horizontal"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:129
+msgid "Vertical"
+msgstr ""
+
+#: includes/elementor/widgets/tabs.php:148
+msgid "Navigation Width"
+msgstr ""
+
+#: includes/elementor/widgets/team-member.php:32
+msgid "[Sober] Team Member"
+msgstr ""
+
+#: includes/elementor/widgets/team-member.php:102
+#: includes/elementor/widgets/testimonial.php:102
+msgid "Andrew Sober"
+msgstr ""
+
+#: includes/elementor/widgets/team-member.php:110
+msgid "Job Title"
+msgstr ""
+
+#: includes/elementor/widgets/team-member.php:112
+msgid "Co-founder"
+msgstr ""
+
+#: includes/elementor/widgets/team-member.php:120
+msgid "Social Profile"
+msgstr ""
+
+#: includes/elementor/widgets/team-member.php:220
+msgid "Social Icons"
+msgstr ""
+
+#: includes/elementor/widgets/testimonial.php:31
+msgid "[Sober] Testimonial"
+msgstr ""
+
+#: includes/elementor/widgets/testimonial.php:81
+msgid "This is the testimonial content."
+msgstr ""
+
+#: includes/elementor/widgets/testimonial.php:88
+msgid "Author Image"
+msgstr ""
+
+#: includes/elementor/widgets/testimonial.php:100
+msgid "Author Name"
+msgstr ""
+
+#: includes/elementor/widgets/testimonial.php:109
+msgid "Job Title/Company"
+msgstr ""
+
+#: includes/elementor/widgets/testimonial.php:212
+msgid "Author Info"
+msgstr ""
+
+#: includes/portfolio.php:89
+#: includes/portfolio.php:528
+#: includes/portfolio.php:609
+#: includes/portfolio.php:657
+msgctxt "slug"
+msgid "portfolio"
+msgstr ""
+
+#: includes/portfolio.php:91
+msgctxt "slug"
+msgid "portfolio-type"
+msgstr ""
+
+#: includes/portfolio.php:94
+msgid "Portfolio Items"
+msgstr ""
+
+#: includes/portfolio.php:97
+#: includes/portfolio.php:182
+msgid "Project"
+msgstr ""
+
+#: includes/portfolio.php:99
+msgid "All Projects"
+msgstr ""
+
+#: includes/portfolio.php:100
+#: includes/size-guide.php:185
+msgid "Add New"
+msgstr ""
+
+#: includes/portfolio.php:101
+msgid "Add New Project"
+msgstr ""
+
+#: includes/portfolio.php:102
+msgid "Edit Project"
+msgstr ""
+
+#: includes/portfolio.php:103
+msgid "New Project"
+msgstr ""
+
+#: includes/portfolio.php:104
+msgid "View Project"
+msgstr ""
+
+#: includes/portfolio.php:105
+msgid "Search Projects"
+msgstr ""
+
+#: includes/portfolio.php:106
+msgid "No Projects found"
+msgstr ""
+
+#: includes/portfolio.php:107
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: includes/portfolio.php:108
+msgid "Filter projects list"
+msgstr ""
+
+#: includes/portfolio.php:109
+msgid "Project list navigation"
+msgstr ""
+
+#: includes/portfolio.php:110
+msgid "Projects list"
+msgstr ""
+
+#: includes/portfolio.php:141
+#: includes/portfolio.php:143
+msgid "Project Types"
+msgstr ""
+
+#: includes/portfolio.php:142
+msgid "Project Type"
+msgstr ""
+
+#: includes/portfolio.php:144
+msgid "All Project Types"
+msgstr ""
+
+#: includes/portfolio.php:145
+msgid "Edit Project Type"
+msgstr ""
+
+#: includes/portfolio.php:146
+msgid "View Project Type"
+msgstr ""
+
+#: includes/portfolio.php:147
+msgid "Update Project Type"
+msgstr ""
+
+#: includes/portfolio.php:148
+msgid "Add New Project Type"
+msgstr ""
+
+#: includes/portfolio.php:149
+msgid "New Project Type Name"
+msgstr ""
+
+#: includes/portfolio.php:150
+msgid "Parent Project Type"
+msgstr ""
+
+#: includes/portfolio.php:151
+msgid "Parent Project Type:"
+msgstr ""
+
+#: includes/portfolio.php:152
+msgid "Search Project Types"
+msgstr ""
+
+#: includes/portfolio.php:153
+msgid "Project type list navigation"
+msgstr ""
+
+#: includes/portfolio.php:154
+msgid "Project type list"
+msgstr ""
+
+#: includes/portfolio.php:235
+msgid "Portfolio Projects"
+msgstr ""
+
+#: includes/portfolio.php:258
+msgid "Portfolio page"
+msgstr ""
+
+#: includes/portfolio.php:272
+msgid "Portfolio items show at most"
+msgstr ""
+
+#: includes/portfolio.php:287
+msgid "Portfolio Item Permalink"
+msgstr ""
+
+#: includes/portfolio.php:294
+msgid "Portfolio type base"
+msgstr ""
+
+#: includes/portfolio.php:314
+msgid "Use these settings to display custom types of content on your site"
+msgstr ""
+
+#: includes/portfolio.php:325
+msgid "Use these settings to control custom post type content"
+msgstr ""
+
+#: includes/portfolio.php:339
+#: includes/portfolio.php:340
+#: includes/portfolio.php:538
+msgctxt "Default slug"
+msgid "portfolio"
+msgstr ""
+
+#: includes/portfolio.php:349
+msgid "Use these settings to control the permalink used specifically for portfolio."
+msgstr ""
+
+#: includes/portfolio.php:371
+msgid "Portfolio base"
+msgstr ""
+
+#: includes/portfolio.php:383
+msgid "Portfolio base with type"
+msgstr ""
+
+#: includes/portfolio.php:393
+msgid "Custom Base"
+msgstr ""
+
+#: includes/portfolio.php:441
+msgid "Enable Portfolio Projects for this site."
+msgstr ""
+
+#: includes/portfolio.php:454
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/portfolio.php:469
+msgctxt "Portfolio items per page"
+msgid "items"
+msgstr ""
+
+#: includes/portfolio.php:484
+msgctxt "Portfolio type base"
+msgid "portfolio-type"
+msgstr ""
+
+#: includes/portfolio.php:722
+msgctxt "slug"
+msgid "uncategorized"
+msgstr ""
+
+#: includes/portfolio.php:770
+#: includes/portfolio.php:791
+msgctxt "Portfolio post type breadcrumb"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:321
+#: includes/shortcodes/class-sober-shortcodes.php:323
+#: includes/shortcodes/class-sober-shortcodes.php:338
+#: includes/widgets/products-filter.php:318
+#: includes/widgets/products-filter.php:505
+msgid "All Products"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:779
+msgid "Add to cart"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1082
+msgid "View detail"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1462
+msgid "Google map requires API Key in order to work."
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:1466
+msgid "No address"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:2645
+#: includes/shortcodes/class-sober-shortcodes.php:2653
+msgid "Can not connect to Google Maps APIs"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:2671
+msgid "No location found for the entered address."
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:2673
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:2678
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:2696
+#: includes/shortcodes/class-sober-shortcodes.php:2704
+#: includes/shortcodes/class-sober-shortcodes.php:2712
+msgid "Can not get the coordinates data"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:2793
+#: includes/shortcodes/class-sober-shortcodes.php:3158
+msgid "Load More"
+msgstr ""
+
+#: includes/shortcodes/class-sober-shortcodes.php:3120
+msgid "Please install or update WooCommerce."
+msgstr ""
+
+#: includes/size-guide.php:96
+#: includes/size-guide.php:115
+#: includes/size-guide.php:181
+#: includes/size-guide.php:182
+#: includes/size-guide.php:486
+#: includes/size-guide.php:567
+#: includes/size-guide.php:780
+#: includes/size-guide.php:808
+#: includes/size-guide.php:857
+msgid "Size Guide"
+msgstr ""
+
+#: includes/size-guide.php:120
+msgid "Enable Size Guide"
+msgstr ""
+
+#: includes/size-guide.php:121
+msgid "Enable product size guides"
+msgstr ""
+
+#: includes/size-guide.php:128
+msgid "Enable on variable products only"
+msgstr ""
+
+#: includes/size-guide.php:135
+msgid "Guide Display"
+msgstr ""
+
+#: includes/size-guide.php:141
+#: includes/size-guide.php:506
+msgid "In product tabs"
+msgstr ""
+
+#: includes/size-guide.php:142
+#: includes/size-guide.php:507
+msgid "By clicking on a button"
+msgstr ""
+
+#: includes/size-guide.php:146
+#: includes/size-guide.php:587
+msgid "Button Position"
+msgstr ""
+
+#: includes/size-guide.php:152
+#: includes/size-guide.php:511
+msgid "Bellow short description"
+msgstr ""
+
+#: includes/size-guide.php:153
+#: includes/size-guide.php:512
+msgid "Bellow price"
+msgstr ""
+
+#: includes/size-guide.php:154
+#: includes/size-guide.php:513
+msgid "Bellow Add To Cart button"
+msgstr ""
+
+#: includes/size-guide.php:155
+msgid "Bellow Attribute (for variable products only)"
+msgstr ""
+
+#: includes/size-guide.php:159
+msgid "Attribute Slug"
+msgstr ""
+
+#: includes/size-guide.php:163
+msgid "This is the slug of a product attribute"
+msgstr ""
+
+#: includes/size-guide.php:179
+msgid "Product size guide"
+msgstr ""
+
+#: includes/size-guide.php:183
+#: includes/size-guide.php:184
+msgid "Size Guides"
+msgstr ""
+
+#: includes/size-guide.php:186
+msgid "Add New Size Guide"
+msgstr ""
+
+#: includes/size-guide.php:187
+msgid "Edit Size Guide"
+msgstr ""
+
+#: includes/size-guide.php:188
+msgid "New Size Guide"
+msgstr ""
+
+#: includes/size-guide.php:189
+msgid "View Size Guide"
+msgstr ""
+
+#: includes/size-guide.php:190
+msgid "Search size guides"
+msgstr ""
+
+#: includes/size-guide.php:191
+msgid "No size guide found"
+msgstr ""
+
+#: includes/size-guide.php:192
+msgid "No size guide found in Trash"
+msgstr ""
+
+#: includes/size-guide.php:193
+msgid "Filter size guides list"
+msgstr ""
+
+#: includes/size-guide.php:194
+msgid "Size guides list navigation"
+msgstr ""
+
+#: includes/size-guide.php:195
+msgid "Size guides list"
+msgstr ""
+
+#: includes/size-guide.php:225
+msgid "Apply to Category"
+msgstr ""
+
+#: includes/size-guide.php:246
+msgid "No Category"
+msgstr ""
+
+#: includes/size-guide.php:250
+#: includes/size-guide.php:300
+msgid "All Categories"
+msgstr ""
+
+#: includes/size-guide.php:275
+msgid "Apply to Categories"
+msgstr ""
+
+#: includes/size-guide.php:276
+msgid "Tables"
+msgstr ""
+
+#: includes/size-guide.php:293
+msgid "No category"
+msgstr ""
+
+#: includes/size-guide.php:307
+msgid "Select Categories"
+msgstr ""
+
+#: includes/size-guide.php:336
+msgid "Table 1"
+msgstr ""
+
+#: includes/size-guide.php:445
+msgid "Table Name"
+msgstr ""
+
+#: includes/size-guide.php:463
+msgid "Additional Information"
+msgstr ""
+
+#: includes/size-guide.php:469
+msgid "Delete Table"
+msgstr ""
+
+#: includes/size-guide.php:514
+msgid "Beside Attribute"
+msgstr ""
+
+#: includes/size-guide.php:534
+msgid "--Default--"
+msgstr ""
+
+#: includes/size-guide.php:535
+msgid "--No Size Guide--"
+msgstr ""
+
+#: includes/size-guide.php:579
+msgid "Size Guide Display"
+msgstr ""
+
+#: includes/size-guide.php:596
+#: includes/size-guide.php:654
+#: includes/widgets/products-filter.php:1450
+msgid "Attribute"
+msgstr ""
+
+#: includes/widgets/instagram.php:36
+msgid "Sober - Instagram"
+msgstr ""
+
+#: includes/widgets/instagram.php:39
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: includes/widgets/instagram.php:125
+#: includes/widgets/instagram.php:126
+msgid "Access Token"
+msgstr ""
+
+#: includes/widgets/instagram.php:130
+msgid "Number of Photos"
+msgstr ""
+
+#: includes/widgets/instagram.php:174
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: includes/widgets/instagram.php:178
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: includes/widgets/instagram.php:186
+#: includes/widgets/instagram.php:194
+#: includes/widgets/instagram.php:198
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: includes/widgets/instagram.php:232
+#: includes/widgets/instagram.php:278
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: includes/widgets/instagram.php:245
+msgid "This widget works with the Sober theme only."
+msgstr ""
+
+#: includes/widgets/popular-posts.php:33
+msgid "Sober - Popular Post"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:36
+msgid "Display most popular posts"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:140
+msgid "Show Date"
+msgstr ""
+
+#: includes/widgets/popular-posts.php:145
+msgid "Show Thumbnail"
+msgstr ""
+
+#: includes/widgets/products-filter.php:39
+msgid "Sober - Products Filter"
+msgstr ""
+
+#: includes/widgets/products-filter.php:42
+msgid "WooCommerce products filter."
+msgstr ""
+
+#: includes/widgets/products-filter.php:133
+msgid "Reset Filter"
+msgstr ""
+
+#: includes/widgets/products-filter.php:209
+msgid "Rated %d star"
+msgid_plural "Rated %d stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/widgets/products-filter.php:237
+msgid "Remove filter \"%s\""
+msgstr ""
+
+#: includes/widgets/products-filter.php:305
+msgid "Any %s"
+msgstr ""
+
+#: includes/widgets/products-filter.php:316
+msgid "Select a %s"
+msgstr ""
+
+#: includes/widgets/products-filter.php:601
+#: includes/widgets/products-filter.php:604
+msgid "Search"
+msgstr ""
+
+#: includes/widgets/products-filter.php:826
+msgid "Any"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1182
+msgid "Filters"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1183
+msgid "Options"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1189
+msgid "There is no filter yet."
+msgstr ""
+
+#: includes/widgets/products-filter.php:1196
+msgid "Add a new filter"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1205
+msgid "Use ajax for filtering"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1212
+msgid "Filtering products instantly"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1222
+msgid "Update URL"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1232
+msgid "Display the Reset button"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1239
+msgid "Show active filters on top"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1265
+msgid "Remove filter"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1344
+msgid "Attributes"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1346
+msgid "Stock status"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1394
+msgid "Slider"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1399
+#: includes/widgets/products-filter.php:1405
+#: includes/widgets/products-filter.php:1409
+msgid "Dropdown"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1400
+#: includes/widgets/products-filter.php:1410
+msgid "Vertical List"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1401
+#: includes/widgets/products-filter.php:1411
+msgid "Horizontal List"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1402
+#: includes/widgets/products-filter.php:1406
+#: includes/widgets/products-filter.php:1412
+msgid "Checkbox List"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1440
+msgid "Filter Name"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1444
+msgid "Filter By"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1458
+msgid "Display Type"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1463
+msgid "Ranges"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1464
+msgid "Each range on a line, separate by the <code>-</code> symbol. Do not include the currency symbol. You can also use <code>></code> and <code><</code> at the begining of lines."
+msgstr ""
+
+#: includes/widgets/products-filter.php:1472
+msgid "Selection Type"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1474
+msgid "Single select"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1475
+msgid "Multiple select"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1484
+msgid "Query Type"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1486
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1487
+msgid "OR"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1495
+msgid "Collapsible"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1503
+msgid "Show product counts"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1510
+msgid "Show the search box"
+msgstr ""
+
+#: includes/widgets/products-filter.php:1518
+msgid "Limit the height of items list (scrollable)"
+msgstr ""
+
+#: sober-addons.php:110
+msgid "<strong>%s</strong> requires <strong><a href=\"http://bit.ly/wpbakery-page-builder\" target=\"_blank\">WPBakery Page Builder</a></strong> or <strong><a href=\"https://wordpress.org/plugins/elementor/\" target=\"_blank\">Elementor Page Builder</a></strong> plugin to be installed and activated on your site."
+msgstr ""

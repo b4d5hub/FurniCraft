@@ -1,0 +1,486 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">sober_size_guide</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio_type</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="copy-once">size_guides</custom-field>
+		<custom-field action="copy-once">size_guide_category</custom-field>
+	</custom-fields>
+	<shortcodes>
+		<shortcode>
+			<tag>sober_product_tabs</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_post_grid</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_countdown</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_button</tag>
+			<attributes>
+				<attribute>label</attribute>
+				<attribute type="link" encoding="vc_link">link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_category_banner</tag>
+			<attributes>
+				<attribute type="media-ids">image</attribute>
+				<attribute>title</attribute>
+				<attribute type="link" encoding="vc_link">link</attribute>
+				<attribute>button_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_product</tag>
+			<attributes>
+				<attribute encoding="media-ids">image</attribute>
+				<attribute>title</attribute>
+				<attribute>price</attribute>
+				<attribute type="link" encoding="vc_link">link</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_banner</tag>
+			<attributes>
+				<attribute encoding="media-ids">image</attribute>
+				<attribute>desc</attribute>
+				<attribute type="link" encoding="vc_link">link</attribute>
+				<attribute>button_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_banner2</tag>
+			<attributes>
+				<attribute encoding="media-ids">image</attribute>
+				<attribute type="area" encoding="urlencoded_json">buttons</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_banner3</tag>
+			<attributes>
+				<attribute encoding="media-ids">image</attribute>
+				<attribute>text</attribute>
+				<attribute type="link" encoding="vc_link">link</attribute>
+				<attribute>button_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_banner4</tag>
+			<attributes>
+				<attribute encoding="media-ids">image</attribute>
+				<attribute type="link" encoding="vc_link">link</attribute>
+				<attribute>button_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_banner_grid_4</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_banner_grid_5</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_banner_grid_5_2</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_banner_grid_6</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_chart</tag>
+			<attributes>
+				<attribute>label</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_message_box</tag>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_icon_box</tag>
+			<attributes>
+				<attribute type="media-ids">image</attribute>
+				<attribute type="media-url">image_url</attribute>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_pricing_table</tag>
+			<attributes>
+				<attribute>name</attribute>
+				<attribute>price</attribute>
+				<attribute>currency</attribute>
+				<attribute>recurrence</attribute>
+				<attribute>button_text</attribute>
+				<attribute type="link" encoding="vc_link">button_link</attribute>
+				<attribute type="area" encoding="urlencoded_json">features</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_map</tag>
+			<attributes>
+				<attribute type="media-ids">marker</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_map2</tag>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_testimonial</tag>
+			<attributes>
+				<attribute type="media-ids">image</attribute>
+				<attribute>name</attribute>
+				<attribute>company</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_partners</tag>
+			<attributes>
+				<attribute type="media-ids">images</attribute>
+				<attribute type="area">custom_srcs</attribute>
+				<attribute type="area">custom_links</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_contact_box</tag>
+			<attributes>
+				<attribute>address</attribute>
+				<attribute>phone</attribute>
+				<attribute>fax</attribute>
+				<attribute>email</attribute>
+				<attribute>website</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_info_list</tag>
+			<attributes>
+				<attribute type="area" encoding="urlencoded_json">info</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_faq</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_team_member</tag>
+			<attributes>
+				<attribute type="media-ids">image</attribute>
+				<attribute>name</attribute>
+				<attribute>job</attribute>
+				<attribute type="link" label="Social link">email</attribute>
+				<attribute type="link" label="Social link">facebook</attribute>
+				<attribute type="link" label="Social link">twitter</attribute>
+				<attribute type="link" label="Social link">pinterest</attribute>
+				<attribute type="link" label="Social link">linkedin</attribute>
+				<attribute type="link" label="Social link">youtube</attribute>
+				<attribute type="link" label="Social link">instagram</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag encoding="allow_html_tags">sober_subscribe_box</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_banner_simple</tag>
+			<attributes>
+				<attribute type="media-ids">image</attribute>
+				<attribute type="link">image_url</attribute>
+				<attribute>text</attribute>
+				<attribute type="link" encoding="vc_link">link</attribute>
+				<attribute>button_text</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_collection_carousel</tag>
+			<attributes>
+				<attribute type="area" encoding="urlencoded_json">collections</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>sober_portfolio_grid</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_portfolio_masonry</tag>
+		</shortcode>
+		<shortcode>
+			<tag>sober_portfolio_metro</tag>
+		</shortcode>
+	</shortcodes>
+
+	<elementor-widgets>
+		<widget name="sober-accordion">
+			<fields-in-item items_of="tabs">
+				<field>tab_title</field>
+				<field editor_type="AREA">tab_content</field>
+			</fields-in-item>
+		</widget>
+		<widget name="konte-banner-carousel">
+			<fields-in-item items_of="banners">
+				<field>title</field>
+				<field editor_type="AREA">description</field>
+				<field>button_text</field>
+				<field editor_type="LINK">link>url</field>
+			</fields-in-item>
+		</widget>
+		<widget name="sober-banner-grid-4">
+			<fields>
+				<field>banner1_title</field>
+				<field>banner1_subtitle</field>
+				<field>banner1_description</field>
+				<field>banner1_button_text</field>
+				<field editor_type="LINK">banner1_link>url</field>
+				<field>banner2_title</field>
+				<field>banner2_subtitle</field>
+				<field>banner2_description</field>
+				<field>banner2_button_text</field>
+				<field editor_type="LINK">banner2_link>url</field>
+				<field>banner3_title</field>
+				<field>banner3_subtitle</field>
+				<field>banner3_description</field>
+				<field>banner3_button_text</field>
+				<field editor_type="LINK">banner3_link>url</field>
+				<field>banner4_title</field>
+				<field>banner4_subtitle</field>
+				<field>banner4_description</field>
+				<field>banner4_button_text</field>
+				<field editor_type="LINK">banner4_link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-banner-grid-5">
+			<fields>
+				<field>banner1_button_text</field>
+				<field>banner1_second_button_text</field>
+				<field editor_type="LINK">banner1_link>url</field>
+				<field editor_type="LINK">banner1_second_link>url</field>
+				<field>banner2_button_text</field>
+				<field>banner2_second_button_text</field>
+				<field editor_type="LINK">banner2_link>url</field>
+				<field editor_type="LINK">banner2_second_link>url</field>
+				<field>banner3_button_text</field>
+				<field>banner3_second_button_text</field>
+				<field editor_type="LINK">banner3_link>url</field>
+				<field editor_type="LINK">banner3_second_link>url</field>
+				<field>banner4_button_text</field>
+				<field>banner4_second_button_text</field>
+				<field editor_type="LINK">banner4_link>url</field>
+				<field editor_type="LINK">banner4_second_link>url</field>
+				<field>banner5_button_text</field>
+				<field>banner5_second_button_text</field>
+				<field editor_type="LINK">banner5_link>url</field>
+				<field editor_type="LINK">banner5_second_link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-banner-grid-52">
+			<fields>
+				<field>banner1_title</field>
+				<field>banner1_subtitle</field>
+				<field>banner1_description</field>
+				<field>banner1_button_text</field>
+				<field editor_type="LINK">banner1_link>url</field>
+				<field>banner2_title</field>
+				<field>banner2_subtitle</field>
+				<field>banner2_description</field>
+				<field>banner2_button_text</field>
+				<field editor_type="LINK">banner2_link>url</field>
+				<field>banner3_title</field>
+				<field>banner3_subtitle</field>
+				<field>banner3_description</field>
+				<field>banner3_button_text</field>
+				<field editor_type="LINK">banner3_link>url</field>
+				<field>banner4_title</field>
+				<field>banner4_subtitle</field>
+				<field>banner4_description</field>
+				<field>banner4_button_text</field>
+				<field editor_type="LINK">banner4_link>url</field>
+				<field>banner5_title</field>
+				<field>banner5_subtitle</field>
+				<field>banner5_description</field>
+				<field>banner5_button_text</field>
+				<field editor_type="LINK">banner5_link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-banner-grid-6">
+			<fields>
+				<field>banner1_title</field>
+				<field>banner1_subtitle</field>
+				<field>banner1_description</field>
+				<field>banner1_button_text</field>
+				<field editor_type="LINK">banner1_link>url</field>
+				<field>banner2_title</field>
+				<field>banner2_subtitle</field>
+				<field>banner2_description</field>
+				<field>banner2_button_text</field>
+				<field editor_type="LINK">banner2_link>url</field>
+				<field>banner3_title</field>
+				<field>banner3_subtitle</field>
+				<field>banner3_description</field>
+				<field>banner3_button_text</field>
+				<field editor_type="LINK">banner3_link>url</field>
+				<field>banner4_title</field>
+				<field>banner4_subtitle</field>
+				<field>banner4_description</field>
+				<field>banner4_button_text</field>
+				<field editor_type="LINK">banner4_link>url</field>
+				<field>banner5_title</field>
+				<field>banner5_subtitle</field>
+				<field>banner5_description</field>
+				<field>banner5_button_text</field>
+				<field editor_type="LINK">banner5_link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-banner-simple">
+			<fields>
+				<field>title</field>
+				<field>button_text</field>
+				<field editor_type="LINK">link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-banner">
+			<fields>
+				<field>subtitle</field>
+				<field>title</field>
+				<field editor_type="AREA">description</field>
+				<field>button_text</field>
+				<field>second_button_text</field>
+				<field editor_type="LINK">link>url</field>
+				<field editor_type="LINK">second_link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-button">
+			<fields>
+				<field>text</field>
+				<field editor_type="LINK">link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-category-banner">
+			<fields>
+				<field>title</field>
+				<field editor_type="AREA">desc</field>
+				<field>button_text</field>
+				<field editor_type="LINK">link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-circle-chart">
+			<fields>
+				<field>label</field>
+			</fields>
+		</widget>
+		<widget name="sober-faq">
+			<fields>
+				<field editor_type="AREA">question</field>
+				<field editor_type="AREA">answer</field>
+			</fields>
+		</widget>
+		<widget name="sober-google-map">
+			<fields>
+				<field>address</field>
+				<field type="Coordinates: lat,lng">latlng</field>
+			</fields>
+			<fields-in-item items_of="markers">
+				<field>address</field>
+				<field type="Marker cooridinates: lat,lng">latlng</field>
+				<field editor_type="AREA">info</field>
+			</fields-in-item>
+		</widget>
+		<widget name="sober-icon-box-carousel">
+			<fields-in-item items_of="boxes">
+				<field>title</field>
+				<field editor_type="AREA">description</field>
+			</fields-in-item>
+		</widget>
+		<widget name="sober-icon-box">
+			<fields>
+				<field>title</field>
+				<field editor_type="AREA">description</field>
+			</fields>
+		</widget>
+		<widget name="sober-image-slider">
+			<fields-in-item items_of="slides">
+				<field>text</field>
+				<field>button_text</field>
+				<field editor_type="LINK">link>url</field>
+			</fields-in-item>
+		</widget>
+		<widget name="sober-info-list">
+			<fields-in-item items_of="list">
+				<field>label</field>
+				<field editor_type="AREA">value</field>
+				<field editor_type="LINK">link>url</field>
+			</fields-in-item>
+		</widget>
+		<widget name="sober-logos">
+			<fields-in-item items_of="logos">
+				<field editor_type="LINK">link>url</field>
+			</fields-in-item>
+		</widget>
+		<widget name="sober-message-box">
+			<fields>
+				<field editor_type="AREA">content</field>
+			</fields>
+		</widget>
+		<widget name="sober-price-table">
+			<fields>
+				<field>title</field>
+				<field editor_type="AREA">description</field>
+				<field>price</field>
+				<field>currency</field>
+				<field>recurrence</field>
+				<field>button_text</field>
+				<field editor_type="LINK">button_link>url</field>
+			</fields>
+			<fields-in-item items_of="features">
+				<field>feature_name</field>
+				<field>feature_value</field>
+			</fields-in-item>
+		</widget>
+		<widget name="sober-product">
+			<fields>
+				<field>product_name</field>
+				<field editor_type="AREA">product_desc</field>
+				<field>product_price</field>
+				<field>button_text</field>
+				<field editor_type="LINK">link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-section-heading">
+			<fields>
+				<field editor_type="AREA">title</field>
+				<field editor_type="LINK">link>url</field>
+				<field>more_button_text</field>
+				<field editor_type="LINK">more_button_link>url</field>
+			</fields>
+		</widget>
+		<widget name="sober-subscribe-box">
+			<fields>
+				<field>title</field>
+				<field editor_type="AREA">description</field>
+			</fields>
+		</widget>
+		<widget name="sober-tabs">
+			<fields-in-item items_of="tabs">
+				<field>tab_title</field>
+				<field editor_type="AREA">tab_content</field>
+			</fields-in-item>
+		</widget>
+		<widget name="sober-team-member">
+			<fields>
+				<field>name</field>
+				<field>job</field>
+			</fields>
+		</widget>
+		<widget name="sober-testimonial">
+			<fields>
+				<field editor_type="AREA">content</field>
+				<field>name</field>
+				<field>job</field>
+			</fields>
+		</widget>
+	</elementor-widgets>
+</wpml-config>

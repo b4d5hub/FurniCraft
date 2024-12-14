@@ -1,0 +1,29 @@
+<wpml-config>
+	<shortcodes>
+		<shortcode>
+			<tag>wcboost_wishlist_button</tag>
+			<attributes>
+				<attribute>product_id</attribute>
+				<attribute>quantity</attribute>
+				<attribute>wishlist</attribute>
+				<attribute>label_add</attribute>
+				<attribute>label_view</attribute>
+				<attribute>label_remove</attribute>
+				<attribute>class</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>wcboost_wishlist</tag>
+			<attributes>
+				<attribute>token</attribute>
+			</attributes>
+		</shortcode>
+	</shortcodes>
+	<admin-texts>
+		<key name="wcboost_wishlist_guest_message" />
+		<key name="wcboost_wishlist_title_default" />
+		<key name="wcboost_wishlist_button_text">
+			<key name="*" />
+		</key>
+	</admin-texts>
+</wpml-config>

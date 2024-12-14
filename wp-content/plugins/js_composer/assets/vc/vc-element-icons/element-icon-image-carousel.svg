@@ -1,0 +1,10 @@
+<svg width="35" height="33" viewBox="0 0 35 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="13.75" cy="31.71" r="1.25" fill="#00447F"/>
+<circle cx="17.75" cy="31.71" r="1.25" fill="#00447F" fill-opacity="0.5"/>
+<circle cx="21.75" cy="31.71" r="1.25" fill="#00447F" fill-opacity="0.5"/>
+<path d="M5.5 22.96L11.7529 16.9555L15.2931 20.3551L22.9943 12.96L29.5 19.2072" stroke="#00447F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="14.6187" cy="8.52246" r="2.5" stroke="#00447F" stroke-width="1.7"/>
+<path d="M17.5 0.959961H6.19971C5.64742 0.959961 5.19971 1.40768 5.19971 1.95996V25.96C5.19971 26.5122 5.64742 26.96 6.19971 26.96H24.3228H28.8003C29.3526 26.96 29.8003 26.5122 29.8003 25.96V1.95996C29.8003 1.40768 29.3526 0.959961 28.8003 0.959961H24.5" stroke="#00447F" stroke-width="1.7" stroke-linecap="round"/>
+<path d="M5.1997 23.1357H1.5V4.7334H5.1997V23.1357Z" stroke="#00447F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.5 23.1357H29.8003V4.7334H33.5V23.1357Z" stroke="#00447F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

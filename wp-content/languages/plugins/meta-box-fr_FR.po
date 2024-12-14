@@ -1,0 +1,679 @@
+# Translation of Plugins - Meta Box - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Meta Box - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-06 06:32:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Meta Box - Stable (latest release)\n"
+
+#: src/Updater/Settings.php:79
+msgid "Your license key is <b style=\"color: #00a32a\">active</b>."
+msgstr "Votre clé de licence est <b style=\"color: #00a32a\">active</b>."
+
+#: src/Updater/Settings.php:78
+msgid "Your license key is <b style=\"color: #d63638\">expired</b>."
+msgstr "Votre clé de licence est <b style=\"color: #d63638\">expirée</b>."
+
+#: src/Updater/Settings.php:76 src/Updater/Settings.php:77
+msgid "Your license key is <b style=\"color: #d63638\">invalid</b>."
+msgstr "Votre clé de licence est <b style=\"color: #d63638\">invalide</b>."
+
+#: inc/about/sections/welcome.php:17
+msgid "Youtube Channel"
+msgstr "Chaîne YouTube"
+
+#: inc/about/sections/welcome.php:16
+msgid "Facebook Group"
+msgstr "Groupe Facebook"
+
+#: inc/about/sections/getting-started-pro.php:4
+msgid "Please follow this video tutorial to get started with Meta Box and extensions:"
+msgstr "Veuillez suivre ce tutoriel vidéo pour commencer à utiliser Meta Box et les extensions :"
+
+#: inc/fields/post.php:140 inc/fields/taxonomy.php:134 inc/fields/user.php:135
+msgid "(No title)"
+msgstr "(aucun titre)"
+
+#: inc/meta-box.php:306
+msgid "Meta Box Title"
+msgstr "Titre de la boîte de métas"
+
+#: inc/about/sections/getting-started.php:7
+msgid "Online Generator is a free tool to help you create and set up custom fields using a simple, friendly user interface. With it, you can add fields, set options and generate needed code that's ready to copy and paste."
+msgstr "Le générateur en ligne est un équipement gratuit qui vous aide à créer et à configurer des champs personnalisés à l’aide d’une interface utilisateur/utilisatrice simple et conviviale. Il vous permet d’ajouter des champs, de configurer des options et de générer le code nécessaire, prêt à être copié-collé."
+
+#: inc/about/sections/products.php:9
+msgid "Automated & fast SEO plugin for WordPress"
+msgstr "Extension SEO automatisée et rapide pour WordPress"
+
+#: inc/about/sections/products.php:8
+msgid "Like this plugin? Check out our other WordPress products:"
+msgstr "Vous aimez cette extension ? Regardez nos autres produits WordPress :"
+
+#: inc/about/sections/products.php:5
+msgid "Our WordPress Products"
+msgstr "Nos produits WordPress"
+
+#: inc/fields/background.php:123
+msgid "-- Size --"
+msgstr "-- Taille --"
+
+#: inc/fields/background.php:109
+msgid "-- Attachment --"
+msgstr "-- Fichier joint --"
+
+#: inc/fields/background.php:89
+msgid "-- Position --"
+msgstr "-- Position --"
+
+#: inc/fields/background.php:73
+msgid "-- Repeat --"
+msgstr "-- Répéter --"
+
+#: inc/about/sections/getting-started.php:21
+msgid "Create settings pages/Customizer options."
+msgstr "Créer les pages de réglages/options d’outil  de personnalisation."
+
+#: inc/about/sections/getting-started.php:20
+msgid "Control the visibility of fields."
+msgstr "Contrôler la visibilité des champs."
+
+#: inc/about/sections/getting-started.php:19
+msgid "Organize fields into repeatable groups."
+msgstr "Organisez les champs en groupes répétables."
+
+#: inc/about/sections/getting-started.php:18
+msgid "Build meta boxes and fields with UI."
+msgstr "Construire des boîtes de métas et des champs méta avec UI."
+
+#: inc/about/sections/getting-started.php:18
+msgid "Meta Box Builder"
+msgstr "Constructeur de boîte de métas"
+
+#: inc/about/about.php:27
+msgid "Go Pro"
+msgstr "Passer Pro"
+
+#: inc/core.php:20
+msgid "Docs"
+msgstr "Docs"
+
+#: src/Updater/Notification.php:111
+msgid "Update License"
+msgstr "Mettre à jour la licence"
+
+#: src/Updater/Notification.php:111
+msgid "Activate License"
+msgstr "Activer la licence"
+
+#. Translators: %3$s - URL to the My Account page.
+#: src/Updater/Notification.php:95
+msgid "Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank\">renew your license</a>."
+msgstr "Votre clé de licence est <b>expirée</b>. Veuillez <a href=\"%3$s\" target=\"_blank\">renouveler votre licence</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:91 src/Updater/Notification.php:93
+msgid "Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Votre clé de licence est <b>non valide</b>. Veuillez <a href=\"%1$s\">mettre à jour votre clé de licence</a> ou <a href=\"%2$s\" target=\"_blank\">en obtenir une nouvelle ici</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:89
+msgid "Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Veuillez <a href=\"%1$s\">saisir votre clé de licence</a> ou <a href=\"%2$s\" target=\"_blank\">en obtenir une nouvelle ici</a>."
+
+#. Translators: %3$s - URL to the My Account page.
+#: src/Updater/Notification.php:65
+msgid "Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank\">renew your license</a> to get automatic updates and premium support."
+msgstr "Votre clé de licence pour Meta Box est <b>expirée</b>. Veuillez <a href=\"%3$s\" target=\"_blank\">renouveler votre licence</a> pour obtenir les mises à jour automatiques et le support premium."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:61 src/Updater/Notification.php:63
+msgid "Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one</a> to enable automatic updates."
+msgstr "Votre clé de licence pour Meta Box est <b>non valide</b>. Veuillez <a href=\"%1$s\">mettre à jour votre clé de licence</a> ou <a href=\"%2$s\" target=\"_blank\">en obtenir une nouvelle</a> pour autoriser les mises à jour automatiques."
+
+#: src/Updater/Checker.php:104
+msgid "UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic updates."
+msgstr "Mise à jour indisponible ! Veuillez saisir une clé de licence valide pour autoriser les mises à jour automatiques."
+
+#. Translators: %1$s - URL to the My Account page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Settings.php:134
+msgid "Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr "Licence non valide. Veuillez <a href=\"%1$s\" target=\"_blank\">vérifier à nouveau</a> ou <a href=\"%2$s\" target=\"_blank\">obtenir une nouvelle licence ici</a>."
+
+#. Translators: %s - URL to the My Account page.
+#: src/Updater/Settings.php:128
+msgid "License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My Account</a> page on metabox.io website."
+msgstr "Licence expirée. Veuillez renouveler sur la page <a href=\"%s\" target=\"_blank\">Mon compte</a> sur le site web metabox.io."
+
+#: src/Updater/Settings.php:125
+msgid "Your license is activated."
+msgstr "Votre licence est activée."
+
+#: src/Updater/Settings.php:123
+msgid "Something wrong with the connection to metabox.io. Please try again later."
+msgstr "Quelque chose ne va pas avec la connexion à metabox.io. Veuillez réessayer ultérieurement."
+
+#. Translators: %1$s - URL to the My Account page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Settings.php:60
+msgid "To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My Account</a> page on metabox.io website. If you have not purchased any extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr "Pour obtenir la clé de licence, rendez-vous sur la page <a href=\"%1$s\" target=\"_blank\">Mon compte</a> du site web metabox.io. Si vous n’avez pas encore acheté d’extension, veuillez <a href=\"%2$s\" target=\"_blank\">obtenir une nouvelle licence ici</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:59
+msgid "You have not set your Meta Box license key yet, which means you are missing out on automatic updates and support! Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Vous n’avez pas encore défini votre clé de licence Meta Box, ce qui signifie que vous n’avez pas accès aux mises à jour automatiques et au support ! Veuillez <a href=\"%1$s\" >saisir votre clé de licence</a> ou <a href=\"%2$s\" target=\"_blank\">en obtenir une nouvelle ici</a>."
+
+#: src/Updater/Settings.php:92
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: src/Updater/Settings.php:72
+msgid "License Key"
+msgstr "Clé de Licence"
+
+#: src/Updater/Settings.php:55
+msgid "Please enter your license key to enable automatic updates for Meta Box extensions."
+msgstr "Veuillez saisir votre clé de licence pour activer les mises à jour automatiques des extensions Meta Box."
+
+#: src/Updater/Settings.php:39 src/Updater/Settings.php:54
+msgid "Meta Box License"
+msgstr "Licence Meta Box"
+
+#: src/Updater/Settings.php:39
+msgid "License"
+msgstr "Licence"
+
+#: inc/fields/input-list.php:83
+msgid "Toggle All"
+msgstr "Tout permuter"
+
+#: inc/about/sections/extensions.php:118
+msgid "View all extensions"
+msgstr "Voir toutes les extensions"
+
+#: inc/about/sections/extensions.php:110
+msgid "Create many-to-many relationships between posts, terms and users."
+msgstr "Créez des relations multivoques entre les publications, les termes et les utilisateurs."
+
+#: inc/about/sections/extensions.php:98
+msgid "Save custom fields data to custom table. Reduce database size and increase performance."
+msgstr "Enregistrez les données de champs personnalisés dans une table personnalisée. Réduisez la taille de la base de données et augmentez les performances."
+
+#: inc/fields/file.php:48
+msgid "Error: Invalid file"
+msgstr "Erreur : fichier non valide"
+
+#. Translators: %s - link to documentation.
+#: inc/about/sections/support.php:12
+msgid "Still need help with Meta Box? We offer excellent support for you. But don't forget to check our <a href=\"%s\">documentation</a> first."
+msgstr "Vous avez toujours besoin d’aide avec Meta Box ? Nous vous proposons un bon support. Mais n’oubliez pas de consulter d’abord notre <a href=\"%s\">documentation</a>."
+
+#: inc/fields/map.php:29 inc/fields/osm.php:16
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+#. Translators: %s - Plugin name.
+#: inc/about/sections/welcome.php:8
+msgid "Welcome to %s"
+msgstr "Bienvenue sur %s"
+
+#: inc/about/sections/extensions.php:74
+msgid "Create register, login and edit user profile forms in the frontend. Embed everywhere with shortcodes."
+msgstr "Créez des formulaires d’enregistrement, de connexion et de modification de profil utilisateur sur interface utilisateur. Intégrez partout avec des codes courts."
+
+#: inc/about/about.php:51
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: inc/about/sections/upgrade.php:14
+msgid "Get Meta Box PRO now"
+msgstr "Obtenir Meta Box PRO maintenant"
+
+#: inc/about/sections/upgrade.php:12
+msgid "And much more!"
+msgstr "Et plus encore !"
+
+#: inc/about/sections/upgrade.php:11
+msgid "Save custom fields in custom tables."
+msgstr "Enregistrer les champs personnalisés dans des tables personnalisées."
+
+#: inc/about/sections/upgrade.php:10
+msgid "Create frontend submission forms."
+msgstr "Créer des formulaires de soumission via l’interface publique."
+
+#: inc/about/sections/upgrade.php:9
+msgid "Create custom settings pages."
+msgstr "Créer des pages de réglages personnalisés."
+
+#: inc/about/sections/upgrade.php:8
+msgid "Add custom fields to taxonomies or user profile."
+msgstr "Ajouter des champs personnalisés aux taxonomies ou profil utilisateur."
+
+#: inc/about/sections/upgrade.php:7
+msgid "Create custom fields with drag-n-drop interface - no coding knowledge required!"
+msgstr "Créez des champs personnalisés avec une interface glisser-déposer - aucune connaissance en codage nécessaire !"
+
+#: inc/about/sections/upgrade.php:5
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr "Veuillez mettre à niveau vers le plan Pro pour déverrouiller plus de fonctionnalités géniales."
+
+#: inc/about/sections/upgrade.php:4
+msgid "Upgrade to Meta Box PRO"
+msgstr "Mettre à niveau vers Meta Box PRO"
+
+#: inc/about/sections/extensions.php:18 inc/about/sections/extensions.php:114
+msgid "Free Download"
+msgstr "Téléchargement gratuit"
+
+#: inc/about/sections/welcome.php:11
+msgid "Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields plugin and framework that makes quick work of customizing a website with—you guessed it—meta boxes and custom fields in WordPress. Follow the instruction below to get started!"
+msgstr "Meta Box est une extension gratuite pour créer des champs personnalisés WordPress compatibles avec Gutenberg et le RGPD qui permet de personnaliser rapidement un site web avec des boîtes de méta et des champs personnalisés dans WordPress. Suivez les instructions ci-dessous pour commencer !"
+
+#: inc/about/sections/tabs.php:7 inc/about/sections/welcome.php:15
+msgid "Support"
+msgstr "Support"
+
+#: inc/about/sections/support.php:26
+msgid "Go to support forum"
+msgstr "Aller sur le forum de support"
+
+#: inc/about/sections/support.php:25
+msgid "For users that have bought premium extensions, the support is provided in the Meta Box Support forum. Any question will be answered with technical details within 24 hours."
+msgstr "Pour les utilisateurs ayant acheté des extensions premium, le support est fourni sur le forum de support de Meta Box. Toute question sera traitée avec des détails techniques dans les 24 heures."
+
+#: inc/about/sections/support.php:24
+msgid "Premium Support"
+msgstr "Support premium"
+
+#: inc/about/sections/support.php:20
+msgid "Go to WordPress.org"
+msgstr "Aller sur WordPress.org"
+
+#: inc/about/sections/support.php:19
+msgid "Go to Github"
+msgstr "Aller sur GitHub"
+
+#: inc/about/sections/support.php:18
+msgid "If you have any question about how to use the plugin, please open a new topic on WordPress.org support forum or open a new issue on Github (preferable). We will try to answer as soon as we can."
+msgstr "Si vous avez des questions sur l’utilisation de l’extension, veuillez ouvrir un nouveau sujet sur le forum de support de WordPress.org ou un nouveau sujet sur GitHub (préférable). Nous essaierons de répondre le plus rapidement possible."
+
+#: inc/about/sections/support.php:17
+msgid "Free Support"
+msgstr "Support gratuit"
+
+#: inc/about/sections/extensions.php:86
+msgid "Create frontend forms for users to submit custom content. Embed everywhere with shortcode."
+msgstr "Créez des formulaires publics pour que les utilisateurs envoient un contenu personnalisé. Embarquez-les partout avec un code court."
+
+#: inc/about/sections/extensions.php:62
+msgid "Control the visibility of meta boxes and fields or even HTML elements with ease."
+msgstr "Contrôlez facilement la visibilité des boîtes de méta et des champs ou des éléments HTML."
+
+#: inc/about/sections/extensions.php:50
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr "Créez une page de réglages puissante pour votre thème, extension ou site web."
+
+#: inc/about/sections/extensions.php:38
+msgid "Create repeatable groups of custom fields for better appearance and structure."
+msgstr "Créez des groupes répétables de champs personnalisés pour une meilleure apparence et structuration du contenu."
+
+#: inc/about/sections/extensions.php:14
+msgid "Create and manage custom post types easily in WordPress with an easy-to-use interface."
+msgstr "Créez et gérez facilement des types de publication personnalisés dans WordPress avec une interface facile à utiliser."
+
+#: inc/about/sections/extensions.php:26
+msgid "Drag and drop your custom fields into place without a single line of code."
+msgstr "Faites glisser/déposer vos champs personnalisés sans aucune ligne de code."
+
+#: inc/about/sections/extensions.php:6
+msgid "View Bundles"
+msgstr "Voir les offres groupées"
+
+#: inc/about/sections/extensions.php:6
+msgid "Save over 80% with our extensions bundles."
+msgstr "Économisez plus de 80 % avec nos offres groupées d’extensions."
+
+#: inc/about/sections/extensions.php:5
+msgid "Extend custom fields in WordPress well beyond what others would ever consider ordinary!"
+msgstr "Étendez les champs personnalisés dans WordPress bien au-delà de ce que d’autres considèrent comme ordinaire !"
+
+#: inc/fields/switch.php:85
+msgid "Off"
+msgstr "Inactif"
+
+#: inc/fields/switch.php:84
+msgid "On"
+msgstr "Actif"
+
+#: inc/fields/background.php:127
+msgid "Contain"
+msgstr "Contenir"
+
+#: inc/fields/background.php:126
+msgid "Cover"
+msgstr "Couvrir"
+
+#: inc/fields/background.php:112
+msgid "Scroll"
+msgstr "Faire défiler"
+
+#: inc/fields/background.php:111
+msgid "Fixed"
+msgstr "Épinglé"
+
+#: inc/fields/background.php:99
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+#: inc/fields/background.php:98
+msgid "Bottom Center"
+msgstr "Centré en bas"
+
+#: inc/fields/background.php:97
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: inc/fields/background.php:96
+msgid "Center Right"
+msgstr "Centré à droite"
+
+#: inc/fields/background.php:95
+msgid "Center Center"
+msgstr "Centré au milieu"
+
+#: inc/fields/background.php:94
+msgid "Center Left"
+msgstr "Centré à gauche"
+
+#: inc/fields/background.php:93
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: inc/fields/background.php:92
+msgid "Top Center"
+msgstr "Centré en haut"
+
+#: inc/fields/background.php:91
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#: inc/fields/background.php:79 inc/fields/background.php:113
+#: inc/fields/background.php:125
+msgid "Inherit"
+msgstr "Hérité"
+
+#: inc/fields/background.php:78
+msgid "Repeat Vertically"
+msgstr "Répéter verticalement"
+
+#: inc/fields/background.php:77
+msgid "Repeat Horizontally"
+msgstr "Répéter horizontalement"
+
+#: inc/fields/background.php:76
+msgid "Repeat All"
+msgstr "Tout répéter"
+
+#: inc/fields/background.php:75
+msgid "No Repeat"
+msgstr "Aucune répétition"
+
+#: inc/fields/background.php:61
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: inc/fields/sidebar.php:10
+msgid "Select a sidebar"
+msgstr "Sélectionnez une colonne latérale"
+
+#: inc/about/sections/tabs.php:4
+msgid "Getting Started"
+msgstr "Commencer"
+
+#: inc/about/sections/getting-started.php:27
+msgid "More Extensions"
+msgstr "Plus d’extensions"
+
+#: inc/about/sections/getting-started.php:21
+msgid "MB Settings Page"
+msgstr "Page des réglages MB"
+
+#: inc/about/sections/getting-started.php:20
+msgid "Meta Box Conditional Logic"
+msgstr "Logique conditionnelle Meta Box"
+
+#: inc/about/sections/getting-started.php:19
+msgid "Meta Box Group"
+msgstr "Groupe Meta Box"
+
+#: inc/about/sections/getting-started.php:16
+msgid "Wanna see more features that transform your WordPress website into a powerful CMS? Check out some extensions below:"
+msgstr "Vous voulez voir plus de fonctionnalités qui transforment votre site web WordPress en un puissant CMS ? Découvrez quelques extensions ci-dessous :"
+
+#: inc/about/sections/extensions.php:30 inc/about/sections/extensions.php:42
+#: inc/about/sections/extensions.php:54 inc/about/sections/extensions.php:66
+#: inc/about/sections/extensions.php:78 inc/about/sections/extensions.php:90
+#: inc/about/sections/extensions.php:102
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: inc/about/sections/getting-started.php:11
+msgid "Go to Online Generator"
+msgstr "Aller sur le générateur en ligne"
+
+#: inc/about/sections/getting-started.php:9
+msgid "online generator"
+msgstr "générateur en ligne"
+
+#: inc/about/sections/getting-started.php:6
+msgid "Getting Started With Online Generator"
+msgstr "Premiers pas avec le générateur en ligne"
+
+#: inc/about/about.php:50
+msgid "Welcome to Meta Box"
+msgstr "Bienvenue sur Meta Box"
+
+#: inc/about/about.php:25
+msgid "About"
+msgstr "À propos"
+
+#. Author of the plugin
+#: meta-box.php
+msgid "MetaBox.io"
+msgstr "MetaBox.io"
+
+#. Description of the plugin
+#: meta-box.php
+msgid "Create custom meta boxes and custom fields in WordPress."
+msgstr "Créez des boîtes de méta et des champs personnalisés dans WordPress."
+
+#: inc/fields/media.php:30
+msgctxt "media"
+msgid "or"
+msgstr "ou"
+
+#: inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr "Sélectionnez un élément"
+
+#: inc/fields/media.php:31
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Déposez des fichiers ici pour les téléverser"
+
+#: inc/fields/media.php:29
+msgctxt "media"
+msgid "Select Files"
+msgstr "Sélectionnez des fichiers"
+
+#: inc/fields/taxonomy.php:84
+msgid "Select a term"
+msgstr "Sélectionnez un terme"
+
+#: inc/fields/media.php:26
+msgctxt "media"
+msgid "No Title"
+msgstr "Aucun titre"
+
+#: inc/fields/media.php:22
+msgctxt "media"
+msgid " files"
+msgstr " fichiers"
+
+#: inc/fields/media.php:21
+msgctxt "media"
+msgid " file"
+msgstr " fichier"
+
+#: inc/fields/media.php:25
+msgctxt "media"
+msgid "View"
+msgstr "Voir"
+
+#: inc/fields/media.php:24
+msgctxt "media"
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/fields/media.php:23
+msgctxt "media"
+msgid "Remove"
+msgstr "Retirer"
+
+#: inc/fields/media.php:20
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Ajouter un média"
+
+#: inc/field.php:314
+msgid "+ Add more"
+msgstr "+ Ajouter plus"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: meta-box.php
+msgid "https://metabox.io"
+msgstr "https://metabox.io"
+
+#. Plugin Name of the plugin
+#: meta-box.php inc/about/about.php:37 inc/about/about.php:38
+#: src/Integrations/Block.php:12 src/Integrations/Bricks.php:10
+#: src/Integrations/Elementor.php:13 src/Integrations/Oxygen.php:14
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/validation.php:66
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Veuillez corriger les erreurs mises en évidence ci-dessous et réessayez."
+
+#: inc/fields/user.php:75
+msgid "Select a user"
+msgstr "Sélectionner un compte"
+
+#: inc/fields/select.php:80
+msgid "None"
+msgstr "Aucun"
+
+#: inc/fields/select.php:80
+msgid "All"
+msgstr "Tous"
+
+#. Translators: %s is the post singular label.
+#. Translators: %s is the taxonomy singular label.
+#: inc/fields/post.php:75 inc/fields/taxonomy.php:88
+msgid "Select a %s"
+msgstr "Sélectionnez un %s"
+
+#: inc/fields/post.php:69
+msgid "Select a post"
+msgstr "Sélectionner un contenu"
+
+#: inc/fields/oembed.php:18
+msgid "Embed HTML not available."
+msgstr "Intégration HTML non disponible."
+
+#: inc/fields/key-value.php:95
+msgid "Value"
+msgstr "Valeur"
+
+#: inc/fields/key-value.php:94
+msgid "Key"
+msgstr "Clé"
+
+#: inc/fields/file.php:86
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Ajouter un nouveau fichier"
+
+#: inc/fields/file.php:61
+msgid "Error: Cannot delete file"
+msgstr "﻿Erreur : impossible de supprimer le fichier"
+
+#. Translators: %d is the number of files in plural form.
+#: inc/fields/file.php:17
+msgid "You may only upload maximum %d files"
+msgstr "Vous pouvez téléverser uniquement des fichiers de %d maximum"
+
+#. Translators: %d is the number of files in singular form.
+#: inc/fields/file.php:15
+msgid "You may only upload maximum %d file"
+msgstr "Vous pouvez téléverser uniquement un fichier de %d maximum"
+
+#: inc/fields/file-input.php:48
+msgid "Remove"
+msgstr "Retirer"
+
+#: inc/fields/file-input.php:46 inc/fields/select.php:80
+msgid "Select"
+msgstr "Sélectionner"
+
+#: inc/fields/file-input.php:17
+msgid "Select File"
+msgstr "Sélectionnez un fichier"
+
+#: inc/fields/file.php:167
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/fields/file.php:166
+msgctxt "file upload"
+msgid "Delete"
+msgstr "﻿Supprimer"
+
+#: inc/fields/checkbox.php:43
+msgid "No"
+msgstr "Non"
+
+#: inc/fields/checkbox.php:43
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/fields/button.php:28
+msgid "Click me"
+msgstr "Cliquez-moi"
+
+#: inc/fields/autocomplete.php:14 inc/fields/autocomplete.php:79
+#: inc/fields/autocomplete.php:91
+msgid "Delete"
+msgstr "﻿Supprimer"
+
+#: inc/about/sections/getting-started-pro.php:14
+#: inc/about/sections/getting-started.php:15 inc/about/sections/tabs.php:6
+msgid "Extensions"
+msgstr "Extensions"
+
+#: inc/about/sections/welcome.php:14
+msgid "Documentation"
+msgstr "Documentation"

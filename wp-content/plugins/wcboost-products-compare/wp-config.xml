@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="wcboost_products_compare_button_text">
+			<key name="*" />
+		</key>
+	</admin-texts>
+</wpml-config>
