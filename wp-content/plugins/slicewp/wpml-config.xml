@@ -1,0 +1,47 @@
+<wpml-config>
+    <admin-texts>
+        <key name="slicewp_settings">
+            <key name="terms_label" />
+            <key name="email_notifications">
+                <key name="admin_new_affiliate_registration">
+                    <key name="subject" />
+                    <key name="content" />
+                </key>
+                <key name="admin_new_commission_registered">
+                    <key name="subject" />
+                    <key name="content" />
+                </key>
+                <key name="affiliate_account_registration">
+                    <key name="subject" />
+                    <key name="content" />
+                </key>
+                <key name="affiliate_account_approved">
+                    <key name="subject" />
+                    <key name="content" />
+                </key>
+                <key name="affiliate_account_rejected">
+                    <key name="subject" />
+                    <key name="content" />
+                </key>
+                <key name="affiliate_commission_approved">
+                    <key name="subject" />
+                    <key name="content" />
+                </key>
+                <key name="affiliate_payment_paid">
+                    <key name="subject" />
+                    <key name="content" />
+                </key>
+            </key>
+        </key>
+        <key name="slicewp_affiliate_fields">
+            <key name="*">
+                <key name="settings">
+                    <key name="label" />
+                    <key name="description" />
+                    <key name="placeholder" />
+                    <key name="admin_label" />
+                </key>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
