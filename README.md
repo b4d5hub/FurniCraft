@@ -1,6 +1,12 @@
 # FurniCraft - Boutique WooCommerce  
 
-Ce projet est une boutique cree utilisant le cms framework WordPress. Voici les étapes pour cloner le projet, configurer l'environnement local, importer la base de données, et exécuter le site sur votre ordinateur.  
+Ce projet est une boutique créée utilisant le CMS WordPress. Voici les étapes pour cloner le projet, configurer l'environnement local, importer la base de données, et exécuter le site sur votre ordinateur.
+
+---
+
+### 🚀 Démo
+
+Accédez à la version en ligne : [FurniCraft Demo](https://furnicraft.ouajih.com)
 
 ---  
 
